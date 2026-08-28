@@ -161,8 +161,6 @@ diabetic-neuropathy-risk-analysis/
 │
 └── screenshots/
     ├── full_dashboard_overview.png
-    ├── kidney_hyperglycemia_view.png
-    └── retina_controlled_view.png
 
 ```
 
