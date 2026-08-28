@@ -1,0 +1,11 @@
+Organ_Name,Condition_State,Image_URL
+Full Body,Controlled Glucose,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/full_body_controlled.png?raw=true
+Full Body,Chronic Hyperglycemia,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/full_body_damaged.png?raw=true
+Retina,Controlled Glucose,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/retina_controlled.png?raw=true
+Retina,Chronic Hyperglycemia,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/retina_damaged.png?raw=true
+Kidney,Controlled Glucose,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/kidney_controlled.png?raw=true
+Kidney,Chronic Hyperglycemia,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/kidney_damaged.png?raw=true
+Heart,Controlled Glucose,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/heart_controlled.png?raw=true
+Heart,Chronic Hyperglycemia,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/heart_damaged.png?raw=true
+Peripheral Nerves,Controlled Glucose,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/peripheral_nerves_controlled.png?raw=true
+Peripheral Nerves,Chronic Hyperglycemia,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/peripheral_nerves_damaged.png?raw=true

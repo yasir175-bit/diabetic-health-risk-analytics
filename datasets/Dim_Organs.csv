@@ -1,0 +1,6 @@
+Organ_ID,Organ_Name,Display_Order,Icon_URL
+1,Full Body,1,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/body%20icon.png?raw=true
+2,Retina,2,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/eye%20icon.png?raw=true
+3,Kidney,3,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/kidney%20icon.png?raw=true
+4,Heart,4,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/heart%20icon.png?raw=true
+5,Peripheral Nerves,5,https://github.com/yasir175-bit/diabetic-dashboard-assets/blob/main/images/foot%20icon.png?raw=true

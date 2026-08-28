@@ -1,0 +1,1501 @@
+Patient_ID,Age,Age_Group,Gender,BMI,Years_With_Diabetes,Fasting_Glucose_mg_dL,HbA1c_Percent,Daily_Insulin_Units,BP_Risk,Physical_Activity,Smoking_Status,Condition_State,Affected_Organ
+PID_0001,60,59-68,Male,26.6,8,115,5.3,9,High,Sedentary,Never,Controlled Glucose,Retina
+PID_0002,73,69+,Male,28.9,26,188,8.7,65,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0003,50,49-58,Female,27.2,26,200,8.9,52,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0004,36,29-38,Male,29.1,23,222,8.8,52,Normal,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0005,64,59-68,Male,32.1,13,150,6.5,0,Low,High,Never,Controlled Glucose,Kidney
+PID_0006,29,29-38,Male,28.2,28,175,9.0,58,High,High,Never,Chronic Hyperglycemia,Heart
+PID_0007,42,39-48,Female,26.9,9,159,7.3,35,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0008,60,59-68,Male,23.4,20,181,7.7,39,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0009,79,69+,Female,31.3,19,167,7.9,55,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0010,40,39-48,Male,30.2,12,186,7.9,36,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0011,44,39-48,Female,23.2,15,150,6.5,9,High,Sedentary,Former,Controlled Glucose,Heart
+PID_0012,32,29-38,Female,32.4,31,198,8.4,63,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0013,32,29-38,Male,23.1,14,147,6.7,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0014,45,39-48,Male,33.3,11,165,7.6,26,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0015,74,69+,Female,31.8,26,217,9.5,54,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0016,57,49-58,Female,30.5,27,205,9.2,59,Normal,High,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0017,61,59-68,Male,26.9,11,165,7.3,38,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0018,45,39-48,Male,31.2,34,244,10.3,82,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0019,24,18-28,Female,33.6,19,186,8.0,46,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0020,43,39-48,Female,31.3,6,129,6.5,9,High,Sedentary,Current,Controlled Glucose,Full Body
+PID_0021,74,69+,Male,25.5,28,217,9.4,57,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0022,23,18-28,Female,29.8,1,128,5.2,9,Normal,Sedentary,Current,Controlled Glucose,Heart
+PID_0023,45,39-48,Male,33.8,35,238,10.2,68,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0024,65,59-68,Female,38.7,8,148,6.9,9,High,High,Never,Controlled Glucose,Full Body
+PID_0025,51,49-58,Male,27.7,7,164,7.1,30,Normal,High,Never,Chronic Hyperglycemia,Retina
+PID_0026,59,59-68,Male,32.5,11,164,7.2,34,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0027,23,18-28,Male,33.8,4,139,6.5,0,Low,Sedentary,Former,Controlled Glucose,Retina
+PID_0028,81,69+,Female,24.9,25,217,9.3,51,Low,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0029,42,39-48,Male,36.8,12,157,7.0,21,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0030,54,49-58,Male,23.7,26,198,8.3,45,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0031,33,29-38,Male,32.3,12,156,7.2,22,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0032,79,69+,Female,30.0,24,182,8.8,51,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0033,43,39-48,Female,28.9,16,192,8.7,45,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0034,65,59-68,Male,40.3,13,176,7.7,40,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0035,46,39-48,Female,27.2,25,164,7.5,59,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0036,70,69+,Female,27.1,4,97,5.5,0,High,Sedentary,Never,Controlled Glucose,Retina
+PID_0037,48,39-48,Female,34.7,11,167,7.2,38,Normal,High,Current,Chronic Hyperglycemia,Full Body
+PID_0038,80,69+,Male,32.1,32,215,9.5,61,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0039,63,59-68,Male,34.5,7,166,7.0,29,Normal,High,Never,Chronic Hyperglycemia,Heart
+PID_0040,49,49-58,Male,29.1,11,178,8.1,21,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0041,81,69+,Male,30.1,28,216,9.9,53,High,High,Never,Chronic Hyperglycemia,Kidney
+PID_0042,37,29-38,Male,37.3,23,232,9.8,61,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0043,36,29-38,Female,24.8,23,196,9.5,50,Normal,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0044,68,59-68,Male,28.1,28,205,9.3,56,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0045,72,69+,Male,32.3,26,215,9.6,63,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0046,65,59-68,Female,27.7,25,205,8.9,62,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0047,76,69+,Male,26.0,29,205,9.1,59,High,High,Current,Chronic Hyperglycemia,Heart
+PID_0048,73,69+,Female,31.4,19,177,8.3,46,High,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0049,78,69+,Female,34.7,33,223,9.5,69,Normal,High,Current,Chronic Hyperglycemia,Heart
+PID_0050,24,18-28,Male,28.0,14,146,6.4,0,Normal,Moderate,Never,Controlled Glucose,Full Body
+PID_0051,58,49-58,Female,27.8,14,144,7.1,27,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0052,72,69+,Female,25.6,35,218,9.7,77,Low,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0053,28,18-28,Female,27.2,30,204,8.9,58,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0054,42,39-48,Male,33.6,28,210,8.5,63,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0055,30,29-38,Male,29.0,17,174,7.5,42,Low,High,Never,Chronic Hyperglycemia,Full Body
+PID_0056,60,59-68,Female,24.9,3,115,5.6,0,High,Moderate,Current,Controlled Glucose,Heart
+PID_0057,39,39-48,Male,29.8,16,155,7.5,31,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0058,25,18-28,Male,33.4,30,228,9.7,65,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0059,46,39-48,Male,26.0,29,195,9.1,61,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0060,81,69+,Female,22.5,15,133,6.5,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0061,35,29-38,Male,38.7,25,230,9.9,50,Normal,High,Never,Chronic Hyperglycemia,Heart
+PID_0062,71,69+,Female,22.3,23,184,8.4,52,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0063,79,69+,Female,26.9,25,200,8.5,58,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0064,30,29-38,Female,29.7,7,150,7.0,24,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0065,47,39-48,Female,27.3,22,207,8.6,50,High,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0066,74,69+,Female,28.3,17,164,6.8,0,High,Moderate,Never,Controlled Glucose,Heart
+PID_0067,23,18-28,Female,31.3,18,185,8.6,40,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0068,41,39-48,Male,18.5,10,111,5.5,0,High,Moderate,Never,Controlled Glucose,Kidney
+PID_0069,49,49-58,Female,22.8,10,159,5.9,0,Low,Sedentary,Former,Controlled Glucose,Heart
+PID_0070,68,59-68,Male,28.8,7,148,6.6,9,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0071,81,69+,Male,26.7,27,153,7.1,62,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0072,28,18-28,Male,29.2,33,225,9.5,60,Normal,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0073,65,59-68,Female,29.6,1,158,6.5,0,High,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_0074,29,29-38,Male,18.9,34,183,7.6,66,Low,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0075,68,59-68,Female,34.5,4,164,7.3,18,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0076,56,49-58,Female,26.3,17,176,6.9,0,High,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_0077,35,29-38,Female,24.6,4,123,5.9,0,Normal,High,Former,Controlled Glucose,Retina
+PID_0078,38,29-38,Female,29.6,26,181,8.3,48,Low,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0079,57,49-58,Female,29.1,4,152,6.5,0,Low,Moderate,Never,Controlled Glucose,Full Body
+PID_0080,71,69+,Female,34.1,1,169,6.9,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0081,61,59-68,Female,29.9,7,166,7.0,21,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0082,25,18-28,Female,33.9,30,209,9.4,57,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0083,23,18-28,Female,24.3,9,133,6.0,0,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0084,27,18-28,Female,29.3,35,223,9.5,68,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0085,75,69+,Male,23.5,8,158,6.6,0,Low,Moderate,Never,Controlled Glucose,Heart
+PID_0086,63,59-68,Male,29.0,24,188,8.8,59,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0087,25,18-28,Male,28.1,19,173,8.1,40,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0088,75,69+,Male,27.9,27,170,7.8,59,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0089,50,49-58,Female,27.9,32,196,9.1,72,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0090,39,39-48,Female,32.0,14,171,7.1,32,Low,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0091,47,39-48,Female,21.2,18,174,7.5,34,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0092,65,59-68,Male,24.5,28,183,7.9,49,Low,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0093,55,49-58,Female,28.4,29,207,9.2,69,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0094,31,29-38,Female,23.2,16,157,6.8,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0095,57,49-58,Female,28.8,35,170,8.3,73,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0096,35,29-38,Female,28.4,31,224,9.7,61,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0097,52,49-58,Female,22.1,4,124,5.6,9,High,Moderate,Never,Controlled Glucose,Kidney
+PID_0098,69,69+,Male,21.9,17,178,7.9,34,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0099,36,29-38,Female,18.5,26,148,6.7,0,High,High,Current,Controlled Glucose,Kidney
+PID_0100,29,29-38,Male,23.0,4,129,5.5,0,Normal,Sedentary,Current,Controlled Glucose,Kidney
+PID_0101,35,29-38,Male,28.7,30,205,8.9,72,Low,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0102,44,39-48,Female,29.3,30,195,9.2,63,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0103,81,69+,Male,29.5,22,168,7.3,40,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0104,78,69+,Female,25.0,11,155,7.0,34,Low,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0105,61,59-68,Male,28.5,2,174,7.1,23,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0106,42,39-48,Female,30.4,12,158,7.5,38,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0107,37,29-38,Male,22.8,30,183,8.6,63,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0108,66,59-68,Female,29.2,18,151,6.8,0,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0109,39,39-48,Female,31.6,26,177,8.3,56,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0110,68,59-68,Male,26.3,7,140,6.2,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0111,74,69+,Female,33.5,1,129,5.8,0,Normal,High,Never,Controlled Glucose,Peripheral Nerves
+PID_0112,45,39-48,Female,26.4,26,202,9.0,54,Normal,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0113,47,39-48,Male,24.6,23,194,8.2,49,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0114,46,39-48,Male,31.2,26,233,10.5,53,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0115,81,69+,Male,38.0,6,150,6.5,9,Normal,High,Never,Controlled Glucose,Full Body
+PID_0116,81,69+,Female,29.0,6,136,6.4,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_0117,81,69+,Female,31.5,8,135,5.9,9,Normal,Moderate,Never,Controlled Glucose,Retina
+PID_0118,66,59-68,Female,26.3,24,148,6.7,0,High,Sedentary,Never,Controlled Glucose,Kidney
+PID_0119,62,59-68,Male,22.9,22,189,8.1,45,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0120,50,49-58,Male,29.4,19,177,8.2,41,High,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0121,36,29-38,Female,30.1,18,155,7.2,42,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0122,66,59-68,Male,27.0,31,204,9.0,68,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0123,22,18-28,Male,31.5,30,217,8.8,61,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0124,46,39-48,Female,25.6,33,195,8.8,61,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0125,28,18-28,Female,24.5,10,146,6.3,0,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0126,30,29-38,Female,33.5,12,164,6.8,0,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_0127,45,39-48,Female,33.5,30,204,8.9,72,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0128,22,18-28,Female,25.7,27,185,8.0,56,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0129,65,59-68,Female,36.5,9,171,7.6,23,Low,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0130,29,29-38,Male,27.3,21,139,6.1,0,High,High,Current,Controlled Glucose,Retina
+PID_0131,45,39-48,Male,29.0,12,149,6.9,9,Normal,High,Current,Controlled Glucose,Peripheral Nerves
+PID_0132,32,29-38,Male,28.2,29,187,8.1,56,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0133,72,69+,Male,31.0,33,201,8.8,63,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0134,38,29-38,Female,29.8,15,168,7.1,40,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0135,29,29-38,Male,29.8,2,133,6.0,0,High,Sedentary,Never,Controlled Glucose,Retina
+PID_0136,56,49-58,Male,23.9,18,172,7.2,48,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0137,56,49-58,Male,20.8,3,133,5.2,0,Low,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0138,54,49-58,Male,33.9,7,155,7.4,28,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0139,80,69+,Female,26.1,18,154,6.9,0,High,Moderate,Former,Controlled Glucose,Full Body
+PID_0140,26,18-28,Male,28.4,33,209,8.8,67,Low,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0141,63,59-68,Female,30.1,31,203,9.4,61,High,High,Former,Chronic Hyperglycemia,Full Body
+PID_0142,60,59-68,Male,36.1,11,179,7.7,28,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0143,79,69+,Female,29.3,4,134,5.8,0,Normal,Sedentary,Former,Controlled Glucose,Kidney
+PID_0144,62,59-68,Female,26.8,18,133,5.6,0,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0145,49,49-58,Male,26.2,4,126,5.4,0,High,High,Former,Controlled Glucose,Kidney
+PID_0146,28,18-28,Female,28.4,34,219,9.5,57,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0147,30,29-38,Male,24.4,29,191,9.0,55,High,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0148,29,29-38,Male,28.7,24,177,8.3,59,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0149,33,29-38,Female,28.4,22,190,7.8,40,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0150,55,49-58,Male,36.2,2,201,8.0,12,High,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0151,54,49-58,Male,28.2,6,140,6.1,0,Normal,High,Current,Controlled Glucose,Heart
+PID_0152,69,69+,Female,19.7,25,199,8.1,54,Low,High,Never,Chronic Hyperglycemia,Retina
+PID_0153,76,69+,Male,40.9,21,174,8.1,54,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0154,44,39-48,Female,33.0,16,156,7.1,27,High,High,Former,Chronic Hyperglycemia,Retina
+PID_0155,45,39-48,Male,38.2,31,243,10.3,63,Low,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0156,58,49-58,Female,23.3,14,178,7.5,44,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0157,56,49-58,Female,27.6,28,204,8.4,53,High,High,Never,Chronic Hyperglycemia,Retina
+PID_0158,65,59-68,Female,31.7,32,191,8.3,73,High,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0159,61,59-68,Female,31.1,28,189,8.9,58,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0160,43,39-48,Male,30.0,9,159,6.9,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0161,48,39-48,Female,18.5,22,179,7.4,57,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0162,56,49-58,Male,20.7,32,183,8.2,69,Normal,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0163,22,18-28,Male,35.6,5,150,6.7,0,High,Sedentary,Current,Controlled Glucose,Heart
+PID_0164,56,49-58,Male,36.4,23,193,8.4,54,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0165,58,49-58,Female,28.1,5,122,5.5,0,High,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0166,68,59-68,Male,35.0,32,229,10.2,68,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0167,35,29-38,Female,23.9,10,149,6.5,9,Low,Sedentary,Current,Controlled Glucose,Retina
+PID_0168,24,18-28,Female,24.9,15,152,6.9,0,High,Moderate,Never,Controlled Glucose,Kidney
+PID_0169,22,18-28,Female,23.5,7,142,5.7,0,Normal,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0170,26,18-28,Male,24.7,29,195,8.4,60,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0171,47,39-48,Female,31.9,3,143,6.4,9,Low,High,Former,Controlled Glucose,Peripheral Nerves
+PID_0172,76,69+,Male,24.6,19,192,8.6,63,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0173,35,29-38,Male,38.9,10,177,8.0,29,High,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0174,60,59-68,Male,30.7,28,184,8.5,63,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0175,48,39-48,Male,33.6,29,182,8.9,64,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0176,30,29-38,Female,30.9,15,154,7.0,39,Low,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0177,36,29-38,Female,34.2,35,214,9.9,76,Normal,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0178,36,29-38,Male,24.6,6,129,5.5,0,Low,Sedentary,Former,Controlled Glucose,Kidney
+PID_0179,47,39-48,Male,35.3,12,182,7.9,28,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0180,63,59-68,Male,29.2,13,117,5.4,0,High,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_0181,81,69+,Male,34.2,29,219,9.7,59,Low,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0182,34,29-38,Female,22.0,19,158,7.4,50,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0183,72,69+,Male,29.4,3,156,6.9,0,Low,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0184,53,49-58,Male,29.3,8,157,7.2,27,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0185,60,59-68,Male,25.8,8,143,5.9,9,High,Sedentary,Current,Controlled Glucose,Kidney
+PID_0186,70,69+,Female,30.0,20,192,8.5,42,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0187,73,69+,Female,35.7,4,149,6.6,0,Low,High,Never,Controlled Glucose,Kidney
+PID_0188,53,49-58,Female,25.4,21,142,6.5,9,Low,Sedentary,Never,Controlled Glucose,Heart
+PID_0189,25,18-28,Female,33.0,3,145,6.5,0,High,High,Former,Controlled Glucose,Full Body
+PID_0190,51,49-58,Female,23.4,8,150,5.7,0,High,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_0191,58,49-58,Male,38.3,23,196,9.0,58,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0192,44,39-48,Female,32.2,16,202,8.8,47,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0193,60,59-68,Female,36.5,13,177,7.9,24,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0194,66,59-68,Female,31.7,3,134,5.6,0,High,Sedentary,Current,Controlled Glucose,Kidney
+PID_0195,36,29-38,Female,30.4,9,176,7.4,28,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0196,64,59-68,Female,32.2,14,172,7.8,29,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0197,50,49-58,Female,28.0,13,151,6.3,0,Low,Sedentary,Current,Controlled Glucose,Heart
+PID_0198,57,49-58,Female,21.2,7,149,5.2,9,Normal,Sedentary,Current,Controlled Glucose,Kidney
+PID_0199,34,29-38,Female,30.7,15,163,6.9,9,High,High,Current,Controlled Glucose,Peripheral Nerves
+PID_0200,53,49-58,Female,25.1,7,169,6.7,9,Low,Sedentary,Current,Controlled Glucose,Kidney
+PID_0201,28,18-28,Female,23.5,34,202,8.8,56,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0202,80,69+,Male,31.5,22,179,8.4,43,Low,High,Former,Chronic Hyperglycemia,Kidney
+PID_0203,72,69+,Female,27.3,24,170,7.4,49,Low,High,Never,Chronic Hyperglycemia,Retina
+PID_0204,43,39-48,Male,33.3,1,149,6.7,9,Normal,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0205,49,49-58,Female,25.0,10,115,5.2,9,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0206,23,18-28,Female,26.4,16,154,6.8,0,High,Sedentary,Former,Controlled Glucose,Kidney
+PID_0207,63,59-68,Female,33.9,8,164,7.3,21,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0208,66,59-68,Male,29.9,25,165,7.8,58,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0209,78,69+,Male,21.8,12,184,6.9,0,High,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_0210,74,69+,Male,29.8,25,188,8.0,60,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0211,27,18-28,Female,35.4,17,168,7.3,39,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0212,49,49-58,Male,26.4,26,206,9.2,51,High,High,Never,Chronic Hyperglycemia,Retina
+PID_0213,49,49-58,Male,31.4,14,184,7.6,32,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0214,65,59-68,Male,24.7,23,205,8.2,48,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0215,65,59-68,Female,28.0,6,166,7.0,35,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0216,41,39-48,Female,33.6,5,122,5.2,0,Normal,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0217,51,49-58,Male,29.6,25,214,8.9,55,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0218,32,29-38,Male,34.5,18,173,7.6,48,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0219,79,69+,Female,30.6,13,161,6.9,0,Normal,High,Former,Controlled Glucose,Peripheral Nerves
+PID_0220,76,69+,Female,38.8,14,196,8.3,43,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0221,49,49-58,Female,21.4,28,176,8.0,57,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0222,46,39-48,Male,27.6,18,159,8.0,40,Normal,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0223,60,59-68,Female,23.6,28,182,8.3,54,Low,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0224,54,49-58,Male,23.9,27,196,8.4,69,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0225,22,18-28,Female,24.0,32,198,8.5,66,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0226,78,69+,Female,29.4,9,151,6.0,0,Normal,Sedentary,Former,Controlled Glucose,Heart
+PID_0227,48,39-48,Male,29.6,32,193,8.8,68,High,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0228,78,69+,Male,30.6,20,196,8.0,42,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0229,73,69+,Female,23.4,28,213,9.5,57,Low,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0230,34,29-38,Female,27.1,33,232,10.2,70,Normal,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0231,62,59-68,Female,24.2,4,134,5.4,0,Low,Sedentary,Former,Controlled Glucose,Retina
+PID_0232,24,18-28,Female,32.9,34,204,9.8,70,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0233,60,59-68,Female,24.6,3,117,5.5,9,Low,Moderate,Former,Controlled Glucose,Retina
+PID_0234,27,18-28,Female,27.6,26,182,8.6,53,Normal,High,Former,Chronic Hyperglycemia,Heart
+PID_0235,29,29-38,Male,31.2,8,168,6.9,9,High,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_0236,48,39-48,Female,25.8,6,145,6.5,0,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0237,30,29-38,Male,31.8,16,154,5.8,0,High,Sedentary,Never,Controlled Glucose,Retina
+PID_0238,58,49-58,Male,35.9,24,205,9.2,54,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0239,54,49-58,Female,29.5,30,182,8.8,53,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0240,72,69+,Male,32.7,13,152,7.0,32,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0241,63,59-68,Male,19.1,5,139,6.0,0,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_0242,65,59-68,Male,26.6,25,210,9.2,60,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0243,45,39-48,Female,29.5,20,179,8.4,44,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0244,36,29-38,Male,23.8,18,163,6.9,0,Low,Moderate,Never,Controlled Glucose,Full Body
+PID_0245,80,69+,Male,29.6,18,167,7.0,43,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0246,75,69+,Male,33.5,2,115,5.2,0,Normal,Sedentary,Former,Controlled Glucose,Kidney
+PID_0247,53,49-58,Male,20.0,10,162,6.2,0,Normal,High,Never,Controlled Glucose,Heart
+PID_0248,53,49-58,Male,23.1,12,152,6.9,0,Normal,High,Never,Controlled Glucose,Peripheral Nerves
+PID_0249,45,39-48,Male,29.5,13,151,7.1,32,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0250,62,59-68,Female,30.7,11,158,7.7,40,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0251,73,69+,Male,32.0,19,175,7.2,51,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0252,70,69+,Male,29.1,35,212,9.5,54,Low,High,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0253,70,69+,Male,30.7,26,188,8.6,59,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0254,79,69+,Male,32.8,14,155,7.5,42,Normal,High,Current,Chronic Hyperglycemia,Full Body
+PID_0255,73,69+,Female,26.7,24,195,8.9,61,Low,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0256,33,29-38,Female,25.8,1,151,5.5,9,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_0257,60,59-68,Male,27.8,22,156,7.9,53,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0258,23,18-28,Male,29.5,23,167,7.7,52,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0259,24,18-28,Male,25.6,19,206,8.4,47,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0260,70,69+,Female,26.8,18,163,6.6,0,Low,Sedentary,Never,Controlled Glucose,Heart
+PID_0261,58,49-58,Female,30.4,12,149,6.8,0,High,Sedentary,Former,Controlled Glucose,Kidney
+PID_0262,70,69+,Female,29.3,28,222,9.9,56,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0263,77,69+,Male,27.7,28,206,9.0,61,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0264,38,29-38,Female,20.6,33,196,8.7,68,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0265,80,69+,Male,28.6,19,194,7.8,43,High,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0266,70,69+,Male,24.1,28,179,7.8,59,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0267,23,18-28,Male,33.1,26,210,8.9,57,High,High,Former,Chronic Hyperglycemia,Heart
+PID_0268,23,18-28,Male,27.2,35,207,9.2,68,Low,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0269,49,49-58,Female,24.0,34,185,9.2,75,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0270,75,69+,Female,28.3,35,179,8.5,79,High,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0271,44,39-48,Male,34.4,16,174,8.2,34,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0272,58,49-58,Female,31.5,13,178,8.0,42,High,High,Former,Chronic Hyperglycemia,Heart
+PID_0273,53,49-58,Female,29.6,23,205,8.2,46,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0274,54,49-58,Female,22.5,22,184,8.0,55,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0275,22,18-28,Female,36.1,16,183,8.2,47,Low,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0276,40,39-48,Female,25.7,28,194,8.1,59,Low,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0277,23,18-28,Female,32.9,35,191,9.2,67,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0278,74,69+,Female,27.1,8,131,5.9,0,High,High,Never,Controlled Glucose,Full Body
+PID_0279,65,59-68,Male,32.5,22,186,8.6,52,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0280,47,39-48,Male,34.6,21,192,8.4,59,Normal,High,Current,Chronic Hyperglycemia,Heart
+PID_0281,53,49-58,Female,31.6,26,223,9.6,46,High,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0282,27,18-28,Male,32.1,21,202,8.8,48,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0283,53,49-58,Female,28.1,25,204,8.9,54,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0284,76,69+,Male,26.6,1,130,5.8,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_0285,25,18-28,Male,29.2,6,137,5.8,9,Normal,Moderate,Current,Controlled Glucose,Full Body
+PID_0286,76,69+,Male,27.0,23,178,8.3,48,Normal,High,Never,Chronic Hyperglycemia,Retina
+PID_0287,32,29-38,Male,39.9,23,212,9.2,59,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0288,77,69+,Female,24.0,23,156,7.1,59,Low,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0289,80,69+,Female,33.2,32,219,10.4,67,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0290,38,29-38,Female,31.0,30,220,9.9,62,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0291,59,59-68,Female,29.7,13,129,6.5,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0292,45,39-48,Male,35.4,18,191,7.8,43,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0293,26,18-28,Female,30.0,23,188,8.0,62,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0294,73,69+,Female,25.7,15,173,7.5,37,High,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0295,55,49-58,Female,29.9,33,199,9.7,63,Normal,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0296,27,18-28,Male,27.8,21,173,8.0,45,Normal,High,Current,Chronic Hyperglycemia,Retina
+PID_0297,43,39-48,Female,30.9,23,193,8.6,56,High,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0298,32,29-38,Male,32.3,27,179,8.1,54,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0299,69,69+,Female,24.6,18,155,7.6,42,Low,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0300,37,29-38,Female,34.1,24,182,8.7,56,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0301,54,49-58,Male,27.4,7,133,5.9,0,Normal,High,Current,Controlled Glucose,Full Body
+PID_0302,30,29-38,Female,30.6,20,148,7.1,35,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0303,81,69+,Female,31.4,27,213,8.9,51,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0304,80,69+,Male,30.3,6,158,6.7,9,Normal,High,Never,Controlled Glucose,Peripheral Nerves
+PID_0305,27,18-28,Female,28.1,27,161,7.5,57,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0306,37,29-38,Female,26.4,9,160,6.5,0,High,Sedentary,Former,Controlled Glucose,Kidney
+PID_0307,50,49-58,Male,27.4,31,213,9.1,70,High,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0308,24,18-28,Male,35.8,21,187,8.2,40,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0309,41,39-48,Male,24.6,26,190,8.5,60,Normal,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0310,81,69+,Male,25.3,13,152,6.8,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0311,80,69+,Male,25.1,23,177,8.1,40,Normal,High,Former,Chronic Hyperglycemia,Heart
+PID_0312,57,49-58,Female,29.2,20,173,8.3,46,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0313,40,39-48,Male,21.6,28,208,8.6,67,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0314,47,39-48,Male,22.4,17,168,7.7,46,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0315,24,18-28,Female,27.4,28,199,8.9,59,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0316,40,39-48,Female,22.7,2,112,5.2,0,Low,Sedentary,Never,Controlled Glucose,Retina
+PID_0317,41,39-48,Male,23.1,25,169,7.6,56,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0318,53,49-58,Male,22.7,6,150,5.2,9,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_0319,28,18-28,Male,24.7,11,145,6.7,9,Low,Moderate,Current,Controlled Glucose,Kidney
+PID_0320,73,69+,Female,32.0,6,184,7.5,15,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0321,62,59-68,Male,33.0,11,159,7.0,35,Low,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0322,54,49-58,Female,37.4,14,191,8.2,45,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0323,61,59-68,Female,37.3,2,153,6.1,0,High,Moderate,Current,Controlled Glucose,Retina
+PID_0324,60,59-68,Male,32.2,3,149,6.4,9,High,Moderate,Current,Controlled Glucose,Full Body
+PID_0325,39,39-48,Female,33.3,35,233,10.7,66,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0326,61,59-68,Female,29.2,33,216,9.8,66,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0327,22,18-28,Male,31.0,24,168,7.5,60,Low,High,Current,Chronic Hyperglycemia,Full Body
+PID_0328,32,29-38,Female,37.5,19,218,8.9,42,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0329,49,49-58,Female,30.3,18,169,8.2,49,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0330,78,69+,Female,33.9,24,181,8.9,57,Normal,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0331,46,39-48,Female,24.3,35,197,9.6,82,High,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0332,71,69+,Female,25.5,1,112,5.2,0,High,Moderate,Former,Controlled Glucose,Full Body
+PID_0333,44,39-48,Female,30.0,25,200,8.6,54,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0334,52,49-58,Female,29.3,34,234,10.2,76,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0335,51,49-58,Female,25.7,25,193,8.9,49,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0336,63,59-68,Female,39.7,16,194,8.7,37,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0337,56,49-58,Female,29.4,34,188,8.9,60,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0338,28,18-28,Male,26.6,29,170,8.0,54,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0339,81,69+,Male,29.3,19,184,7.9,56,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0340,37,29-38,Male,28.7,23,197,8.3,55,High,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0341,47,39-48,Male,29.5,19,171,7.8,36,Normal,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0342,69,69+,Male,21.3,25,182,7.3,62,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0343,78,69+,Female,34.5,16,194,8.2,35,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0344,73,69+,Male,34.8,9,179,7.2,31,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0345,81,69+,Female,35.4,1,145,6.5,0,High,Sedentary,Never,Controlled Glucose,Heart
+PID_0346,70,69+,Male,30.1,19,202,8.3,54,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0347,23,18-28,Female,31.6,33,231,9.4,65,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0348,22,18-28,Female,24.6,34,193,8.8,65,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0349,69,69+,Male,32.4,16,189,8.5,23,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0350,33,29-38,Female,29.8,18,156,7.3,42,Normal,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0351,26,18-28,Male,26.5,34,190,9.0,74,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0352,58,49-58,Female,32.6,25,202,9.6,60,High,High,Former,Chronic Hyperglycemia,Heart
+PID_0353,53,49-58,Male,32.8,6,136,6.3,9,High,Sedentary,Current,Controlled Glucose,Heart
+PID_0354,80,69+,Female,28.9,21,183,8.0,49,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0355,76,69+,Male,30.6,6,135,6.2,0,High,Sedentary,Current,Controlled Glucose,Kidney
+PID_0356,30,29-38,Female,23.9,32,176,7.7,67,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0357,62,59-68,Female,34.3,31,214,9.5,69,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0358,56,49-58,Male,24.5,10,129,5.8,0,High,Moderate,Never,Controlled Glucose,Full Body
+PID_0359,40,39-48,Male,25.4,30,198,8.9,55,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0360,69,69+,Male,28.9,18,183,8.4,38,Normal,High,Never,Chronic Hyperglycemia,Retina
+PID_0361,37,29-38,Male,33.7,24,162,7.3,54,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0362,24,18-28,Female,33.7,9,147,6.8,9,High,Sedentary,Current,Controlled Glucose,Heart
+PID_0363,41,39-48,Male,28.6,31,210,9.4,61,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0364,45,39-48,Male,32.2,15,136,6.2,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0365,75,69+,Male,20.8,4,135,6.4,0,Normal,Moderate,Never,Controlled Glucose,Kidney
+PID_0366,77,69+,Female,25.3,9,159,6.7,9,Low,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0367,54,49-58,Male,25.4,9,167,7.1,28,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0368,45,39-48,Male,34.4,26,204,8.6,59,Low,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0369,73,69+,Male,31.6,4,130,6.1,0,Low,High,Former,Controlled Glucose,Heart
+PID_0370,32,29-38,Male,29.4,17,165,7.5,39,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0371,70,69+,Female,29.9,16,201,8.9,36,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0372,29,29-38,Male,35.8,15,192,8.8,47,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0373,57,49-58,Male,27.8,35,219,9.6,57,High,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0374,59,59-68,Female,22.6,5,141,5.9,9,Normal,Moderate,Former,Controlled Glucose,Retina
+PID_0375,61,59-68,Female,33.6,5,166,7.1,19,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0376,41,39-48,Male,29.4,20,226,9.5,49,Low,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0377,56,49-58,Female,33.0,15,184,7.9,44,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0378,69,69+,Female,28.4,18,175,7.7,54,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0379,46,39-48,Male,24.7,2,123,5.4,0,High,Sedentary,Former,Controlled Glucose,Heart
+PID_0380,56,49-58,Female,30.5,29,204,9.2,61,High,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0381,46,39-48,Female,28.6,13,142,6.7,0,High,High,Current,Controlled Glucose,Heart
+PID_0382,50,49-58,Male,29.5,4,131,6.5,0,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0383,39,39-48,Male,36.0,10,151,6.4,9,Normal,Moderate,Never,Controlled Glucose,Retina
+PID_0384,67,59-68,Male,23.5,31,203,8.5,64,Normal,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0385,39,39-48,Female,29.9,8,158,7.1,30,Normal,High,Current,Chronic Hyperglycemia,Retina
+PID_0386,23,18-28,Female,24.8,3,154,6.0,0,Low,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0387,75,69+,Female,18.5,9,128,5.6,0,Normal,Moderate,Current,Controlled Glucose,Heart
+PID_0388,56,49-58,Male,28.4,30,177,8.8,52,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0389,37,29-38,Female,28.7,11,181,7.6,31,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0390,62,59-68,Female,31.5,35,196,9.0,69,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0391,57,49-58,Male,27.6,13,154,6.3,0,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0392,54,49-58,Male,21.8,13,125,6.0,0,High,Sedentary,Never,Controlled Glucose,Heart
+PID_0393,25,18-28,Female,24.8,12,157,6.7,0,High,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_0394,54,49-58,Male,34.7,10,138,6.4,0,Low,Sedentary,Never,Controlled Glucose,Kidney
+PID_0395,35,29-38,Female,24.8,9,161,7.0,34,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0396,42,39-48,Male,35.9,7,154,6.4,0,Normal,Sedentary,Former,Controlled Glucose,Retina
+PID_0397,69,69+,Male,33.4,2,152,6.4,9,High,High,Never,Controlled Glucose,Retina
+PID_0398,41,39-48,Male,27.1,23,174,7.7,40,Normal,High,Former,Chronic Hyperglycemia,Retina
+PID_0399,77,69+,Male,25.2,21,160,7.7,47,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0400,29,29-38,Female,33.4,23,179,7.6,54,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0401,28,18-28,Male,27.5,29,220,9.4,64,High,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0402,24,18-28,Female,21.5,14,128,6.0,9,Low,Sedentary,Never,Controlled Glucose,Retina
+PID_0403,38,29-38,Female,31.2,26,173,8.1,50,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0404,54,49-58,Female,30.5,5,189,7.9,24,Low,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0405,69,69+,Male,33.8,31,218,9.9,58,High,High,Never,Chronic Hyperglycemia,Heart
+PID_0406,33,29-38,Female,30.2,25,196,9.2,53,High,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0407,80,69+,Female,26.1,31,208,9.2,64,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0408,72,69+,Male,34.4,20,176,8.1,51,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0409,43,39-48,Male,34.9,17,165,7.2,45,High,High,Never,Chronic Hyperglycemia,Kidney
+PID_0410,76,69+,Female,29.7,2,130,5.8,0,High,High,Current,Controlled Glucose,Kidney
+PID_0411,43,39-48,Female,28.9,25,173,7.8,42,High,High,Never,Chronic Hyperglycemia,Kidney
+PID_0412,67,59-68,Male,22.5,13,149,6.0,0,High,Sedentary,Never,Controlled Glucose,Kidney
+PID_0413,51,49-58,Female,25.8,28,145,7.5,58,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0414,59,59-68,Female,32.1,6,158,6.7,9,High,Moderate,Never,Controlled Glucose,Kidney
+PID_0415,59,59-68,Female,26.0,3,164,6.8,9,Normal,Moderate,Former,Controlled Glucose,Heart
+PID_0416,66,59-68,Female,21.9,35,203,9.4,66,Low,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0417,72,69+,Female,44.7,18,208,8.9,46,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0418,75,69+,Male,21.9,11,135,6.3,9,Normal,High,Current,Controlled Glucose,Retina
+PID_0419,29,29-38,Male,39.0,20,146,6.7,9,Low,High,Never,Controlled Glucose,Retina
+PID_0420,48,39-48,Male,27.2,5,128,5.9,9,Low,Sedentary,Former,Controlled Glucose,Retina
+PID_0421,48,39-48,Female,28.2,19,164,6.8,0,High,High,Former,Controlled Glucose,Retina
+PID_0422,55,49-58,Female,25.5,22,160,7.9,58,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0423,42,39-48,Male,32.2,19,194,7.9,41,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0424,51,49-58,Female,22.0,16,143,6.4,0,Normal,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0425,54,49-58,Female,20.1,24,180,7.7,57,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0426,49,49-58,Female,36.0,4,160,6.8,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0427,68,59-68,Male,24.9,15,182,8.0,41,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0428,54,49-58,Female,32.0,25,199,9.2,57,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0429,26,18-28,Male,23.6,35,220,9.3,57,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0430,81,69+,Male,31.9,14,152,6.9,9,Normal,High,Never,Controlled Glucose,Retina
+PID_0431,69,69+,Male,36.3,19,166,7.7,54,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0432,40,39-48,Male,26.2,7,161,6.7,0,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_0433,25,18-28,Male,19.7,30,184,8.1,64,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0434,56,49-58,Female,36.4,19,206,8.6,38,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0435,70,69+,Male,32.9,25,209,9.4,50,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0436,38,29-38,Female,26.4,16,138,6.3,9,High,Moderate,Current,Controlled Glucose,Retina
+PID_0437,65,59-68,Male,27.6,8,170,7.4,26,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0438,49,49-58,Female,23.5,18,173,7.9,46,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0439,51,49-58,Female,35.1,28,174,8.0,59,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0440,50,49-58,Male,26.1,16,205,8.8,30,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0441,67,59-68,Male,22.1,19,188,7.5,37,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0442,74,69+,Male,29.6,17,163,7.3,48,High,High,Current,Chronic Hyperglycemia,Heart
+PID_0443,27,18-28,Female,24.6,13,151,7.1,35,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0444,56,49-58,Female,23.9,7,124,5.4,9,Normal,Sedentary,Former,Controlled Glucose,Kidney
+PID_0445,81,69+,Male,26.6,27,204,8.9,58,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0446,62,59-68,Female,29.0,10,147,6.3,0,Low,Sedentary,Current,Controlled Glucose,Retina
+PID_0447,58,49-58,Male,22.2,34,238,10.2,73,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0448,45,39-48,Male,35.0,25,208,9.0,50,Normal,High,Former,Chronic Hyperglycemia,Heart
+PID_0449,50,49-58,Female,31.7,6,148,7.0,13,Low,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0450,70,69+,Male,26.9,24,169,7.7,50,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0451,67,59-68,Female,24.4,18,164,7.9,49,High,High,Never,Chronic Hyperglycemia,Heart
+PID_0452,74,69+,Male,28.2,23,196,8.2,56,High,High,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0453,52,49-58,Female,32.7,6,114,5.8,9,High,Sedentary,Current,Controlled Glucose,Retina
+PID_0454,56,49-58,Male,32.0,29,188,9.0,60,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0455,81,69+,Male,33.5,25,219,10.1,51,Normal,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0456,54,49-58,Female,26.4,17,184,7.9,40,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0457,73,69+,Male,18.5,24,160,7.3,57,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0458,42,39-48,Female,34.3,11,136,6.1,0,Normal,Sedentary,Former,Controlled Glucose,Full Body
+PID_0459,53,49-58,Female,27.8,26,174,7.9,55,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0460,44,39-48,Female,31.7,34,199,8.8,85,Low,High,Former,Chronic Hyperglycemia,Heart
+PID_0461,54,49-58,Female,36.3,28,172,8.2,60,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0462,24,18-28,Female,39.8,3,158,7.4,15,High,High,Current,Chronic Hyperglycemia,Kidney
+PID_0463,39,39-48,Female,25.6,11,170,6.7,9,Normal,High,Current,Controlled Glucose,Retina
+PID_0464,46,39-48,Female,29.2,14,192,8.4,24,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0465,63,59-68,Female,34.9,26,196,8.4,59,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0466,52,49-58,Male,24.7,21,174,7.7,47,Low,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0467,75,69+,Male,25.9,30,176,7.9,72,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0468,79,69+,Female,25.9,8,143,6.0,9,High,Moderate,Former,Controlled Glucose,Kidney
+PID_0469,24,18-28,Male,28.5,20,181,7.7,47,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0470,61,59-68,Male,27.6,32,207,8.9,70,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0471,67,59-68,Male,25.9,22,177,7.9,43,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0472,45,39-48,Male,24.2,7,162,6.7,9,High,Sedentary,Never,Controlled Glucose,Kidney
+PID_0473,71,69+,Female,32.3,9,145,7.5,19,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0474,53,49-58,Female,34.8,1,143,5.8,9,High,Moderate,Current,Controlled Glucose,Heart
+PID_0475,68,59-68,Male,35.4,29,205,9.4,62,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0476,43,39-48,Female,26.4,8,162,6.9,0,High,Moderate,Never,Controlled Glucose,Full Body
+PID_0477,44,39-48,Female,32.5,4,155,7.1,19,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0478,23,18-28,Male,29.7,35,192,9.2,73,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0479,48,39-48,Female,26.0,3,148,6.3,9,High,Sedentary,Former,Controlled Glucose,Retina
+PID_0480,63,59-68,Male,32.0,7,142,6.9,9,High,Moderate,Former,Controlled Glucose,Heart
+PID_0481,23,18-28,Male,25.8,27,170,7.7,61,Normal,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0482,47,39-48,Female,26.9,1,134,6.2,0,High,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_0483,38,29-38,Male,22.3,27,185,8.3,59,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0484,61,59-68,Female,26.5,16,148,6.1,9,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0485,54,49-58,Female,29.8,7,142,6.4,9,Normal,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0486,30,29-38,Male,35.8,23,200,8.8,65,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0487,64,59-68,Female,27.0,11,154,6.4,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0488,75,69+,Female,23.8,33,210,9.7,63,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0489,69,69+,Male,35.5,17,193,8.9,41,Low,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0490,60,59-68,Female,26.3,35,217,9.1,70,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_0491,50,49-58,Female,20.6,5,123,5.3,9,High,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0492,63,59-68,Female,29.2,32,210,9.2,78,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0493,76,69+,Female,27.1,3,139,5.8,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0494,47,39-48,Male,39.2,35,210,10.0,72,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0495,56,49-58,Female,30.8,14,114,5.2,0,Normal,Moderate,Never,Controlled Glucose,Kidney
+PID_0496,71,69+,Female,27.9,31,230,10.2,61,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0497,46,39-48,Female,24.3,31,176,8.8,75,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0498,45,39-48,Female,30.1,17,169,7.6,43,Normal,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0499,34,29-38,Female,35.3,24,194,9.1,54,Low,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0500,81,69+,Male,30.0,23,197,8.3,45,Normal,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0501,79,69+,Female,24.7,18,165,7.1,40,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0502,28,18-28,Female,31.1,14,167,6.8,0,High,Sedentary,Current,Controlled Glucose,Full Body
+PID_0503,78,69+,Female,28.4,15,140,6.1,0,Normal,Sedentary,Current,Controlled Glucose,Heart
+PID_0504,57,49-58,Female,30.7,15,149,6.6,9,Normal,Sedentary,Current,Controlled Glucose,Retina
+PID_0505,66,59-68,Male,27.0,6,124,5.5,0,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0506,41,39-48,Male,26.9,27,194,8.9,60,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0507,22,18-28,Male,26.7,15,201,7.7,32,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0508,29,29-38,Male,32.9,8,152,6.3,0,High,Moderate,Never,Controlled Glucose,Full Body
+PID_0509,67,59-68,Female,26.9,15,117,5.5,0,High,Moderate,Former,Controlled Glucose,Retina
+PID_0510,37,29-38,Female,26.5,3,162,5.9,9,Low,Moderate,Current,Controlled Glucose,Heart
+PID_0511,35,29-38,Female,24.3,13,144,6.5,0,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0512,33,29-38,Male,30.7,34,211,9.3,73,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0513,72,69+,Female,30.0,24,212,9.1,61,Normal,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0514,44,39-48,Male,26.5,32,188,9.1,61,Low,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0515,36,29-38,Male,25.3,32,178,8.3,64,High,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0516,49,49-58,Female,37.2,30,215,8.9,72,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0517,55,49-58,Female,19.9,13,142,6.3,9,Low,Sedentary,Never,Controlled Glucose,Full Body
+PID_0518,23,18-28,Male,30.9,1,135,5.4,0,High,Moderate,Never,Controlled Glucose,Retina
+PID_0519,53,49-58,Male,34.5,34,215,9.9,62,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0520,44,39-48,Male,18.5,15,162,7.2,44,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0521,43,39-48,Male,32.3,14,168,6.6,0,Normal,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0522,72,69+,Female,27.6,29,203,8.9,48,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0523,46,39-48,Male,29.8,34,221,10.1,60,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0524,79,69+,Female,27.1,18,163,7.5,39,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0525,43,39-48,Male,33.5,7,159,7.3,17,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0526,79,69+,Male,30.3,29,209,8.8,56,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0527,79,69+,Male,29.2,31,215,9.3,79,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0528,43,39-48,Male,24.5,25,177,8.4,59,High,High,Never,Chronic Hyperglycemia,Retina
+PID_0529,70,69+,Male,37.3,14,172,7.6,20,High,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0530,73,69+,Male,28.6,8,177,7.9,24,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0531,63,59-68,Female,39.1,27,223,9.9,57,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0532,27,18-28,Male,37.5,2,163,7.5,10,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0533,36,29-38,Female,20.4,17,183,7.6,44,Low,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0534,75,69+,Male,25.6,14,163,7.2,24,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0535,64,59-68,Female,23.8,25,205,9.0,61,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0536,81,69+,Female,28.4,30,195,9.1,72,Normal,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0537,58,49-58,Female,29.5,29,183,8.5,75,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0538,54,49-58,Female,29.7,20,207,8.0,37,Low,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0539,29,29-38,Male,33.4,21,192,7.7,39,Low,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0540,74,69+,Female,35.5,22,165,7.3,54,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0541,81,69+,Female,33.1,35,223,9.3,79,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0542,65,59-68,Female,26.0,16,177,7.3,44,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0543,65,59-68,Male,25.0,17,174,8.0,47,High,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0544,26,18-28,Male,28.6,16,150,6.9,0,High,Moderate,Never,Controlled Glucose,Full Body
+PID_0545,60,59-68,Female,30.6,2,159,6.7,0,High,Moderate,Never,Controlled Glucose,Heart
+PID_0546,25,18-28,Female,27.8,4,126,5.3,9,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0547,27,18-28,Female,22.4,21,153,6.9,0,High,Moderate,Former,Controlled Glucose,Full Body
+PID_0548,66,59-68,Female,31.7,34,242,10.6,68,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0549,53,49-58,Female,26.8,30,184,8.9,62,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0550,73,69+,Male,26.7,6,141,6.1,9,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_0551,51,49-58,Male,28.3,17,161,7.7,41,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0552,68,59-68,Male,27.5,25,160,7.6,48,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0553,56,49-58,Male,26.9,5,129,5.9,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0554,76,69+,Female,22.7,5,137,5.8,0,Normal,Moderate,Never,Controlled Glucose,Full Body
+PID_0555,61,59-68,Male,28.1,20,186,8.6,43,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0556,73,69+,Female,31.8,16,138,6.6,0,Normal,Moderate,Never,Controlled Glucose,Kidney
+PID_0557,37,29-38,Male,29.8,9,183,7.9,21,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0558,34,29-38,Female,33.0,5,163,6.5,9,Low,High,Never,Controlled Glucose,Full Body
+PID_0559,71,69+,Female,25.2,2,128,5.2,0,Normal,Moderate,Former,Controlled Glucose,Kidney
+PID_0560,81,69+,Male,22.7,9,143,5.4,0,Normal,Sedentary,Current,Controlled Glucose,Retina
+PID_0561,63,59-68,Female,27.5,22,198,8.2,50,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0562,51,49-58,Male,25.8,22,154,7.0,50,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0563,40,39-48,Male,26.3,22,178,7.6,41,Normal,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0564,38,29-38,Male,29.6,34,206,9.3,69,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0565,77,69+,Male,26.3,29,220,9.4,56,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0566,40,39-48,Male,22.8,33,211,9.5,48,High,High,Never,Chronic Hyperglycemia,Kidney
+PID_0567,49,49-58,Female,26.0,18,151,7.0,61,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0568,79,69+,Female,30.2,7,160,6.4,9,High,Sedentary,Former,Controlled Glucose,Kidney
+PID_0569,76,69+,Female,31.7,1,124,5.2,0,Normal,High,Never,Controlled Glucose,Heart
+PID_0570,47,39-48,Male,31.6,33,178,8.2,60,High,High,Never,Chronic Hyperglycemia,Heart
+PID_0571,58,49-58,Female,30.6,1,116,5.2,0,High,Moderate,Never,Controlled Glucose,Retina
+PID_0572,47,39-48,Male,27.8,24,194,9.0,52,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0573,74,69+,Male,30.5,4,145,6.8,0,High,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0574,44,39-48,Female,28.4,4,142,6.4,0,Low,Moderate,Never,Controlled Glucose,Kidney
+PID_0575,30,29-38,Male,29.1,18,159,6.8,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0576,33,29-38,Female,24.3,27,179,7.9,65,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0577,74,69+,Female,28.8,32,190,8.7,63,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0578,22,18-28,Male,30.3,33,222,9.3,68,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0579,79,69+,Male,30.2,28,175,8.7,54,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0580,79,69+,Male,22.7,6,124,5.2,9,High,Sedentary,Current,Controlled Glucose,Retina
+PID_0581,22,18-28,Female,29.0,16,172,7.7,45,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0582,68,59-68,Male,22.0,34,191,9.0,69,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0583,55,49-58,Male,29.4,23,179,7.8,49,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0584,53,49-58,Male,25.4,24,184,8.3,53,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0585,75,69+,Female,36.4,13,203,8.5,33,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0586,69,69+,Male,29.1,18,201,8.6,33,High,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0587,46,39-48,Male,32.3,13,193,7.7,41,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0588,61,59-68,Female,38.3,17,188,8.6,40,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0589,66,59-68,Female,24.8,15,171,6.9,0,High,Sedentary,Never,Controlled Glucose,Kidney
+PID_0590,74,69+,Male,30.6,18,179,8.5,45,Low,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0591,22,18-28,Male,23.1,23,160,7.1,36,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0592,37,29-38,Male,30.2,30,211,9.7,55,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0593,60,59-68,Female,36.7,34,226,9.9,57,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0594,26,18-28,Male,25.7,4,163,6.9,9,High,Moderate,Current,Controlled Glucose,Peripheral Nerves
+PID_0595,43,39-48,Female,24.5,3,131,6.1,0,Low,Sedentary,Former,Controlled Glucose,Full Body
+PID_0596,50,49-58,Female,28.2,7,153,6.4,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0597,76,69+,Female,38.0,18,182,8.3,41,High,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0598,24,18-28,Male,32.1,7,153,7.1,28,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0599,33,29-38,Female,24.4,6,144,6.3,0,Low,Moderate,Former,Controlled Glucose,Full Body
+PID_0600,47,39-48,Female,35.3,22,174,8.4,48,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0601,37,29-38,Female,21.0,1,131,5.2,9,Low,Moderate,Former,Controlled Glucose,Full Body
+PID_0602,72,69+,Male,38.4,4,169,7.5,20,High,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0603,58,49-58,Female,32.5,29,186,8.3,61,Normal,High,Never,Chronic Hyperglycemia,Kidney
+PID_0604,43,39-48,Male,36.7,21,202,9.1,43,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0605,78,69+,Male,21.0,26,203,8.3,49,Low,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0606,50,49-58,Male,29.4,14,197,8.1,40,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0607,35,29-38,Female,28.0,9,156,6.2,0,High,High,Never,Controlled Glucose,Full Body
+PID_0608,49,49-58,Male,24.0,12,150,6.6,0,Normal,Sedentary,Former,Controlled Glucose,Full Body
+PID_0609,26,18-28,Male,22.6,6,127,6.0,9,High,Sedentary,Never,Controlled Glucose,Retina
+PID_0610,68,59-68,Male,30.9,20,192,8.6,44,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0611,70,69+,Male,31.3,24,200,8.8,56,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0612,51,49-58,Female,34.6,27,194,8.3,57,Low,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0613,67,59-68,Female,26.3,8,154,6.6,9,High,Moderate,Current,Controlled Glucose,Kidney
+PID_0614,73,69+,Male,27.9,1,149,7.0,22,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0615,26,18-28,Male,22.2,24,179,8.2,52,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0616,33,29-38,Female,35.7,7,176,8.1,34,Low,High,Former,Chronic Hyperglycemia,Heart
+PID_0617,37,29-38,Male,28.9,19,196,8.5,51,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0618,47,39-48,Male,31.9,22,213,9.3,50,Normal,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0619,47,39-48,Female,32.1,35,229,10.0,76,Low,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0620,69,69+,Female,35.3,30,223,9.9,65,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0621,42,39-48,Male,24.8,29,174,8.7,61,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0622,60,59-68,Female,31.8,22,171,8.4,61,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0623,57,49-58,Male,28.5,11,166,7.4,34,Low,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0624,54,49-58,Female,38.3,20,187,8.3,41,Normal,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0625,51,49-58,Male,24.8,29,230,9.8,55,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0626,58,49-58,Male,34.0,34,208,9.3,64,Low,High,Current,Chronic Hyperglycemia,Retina
+PID_0627,44,39-48,Male,30.2,1,139,6.5,0,High,Sedentary,Current,Controlled Glucose,Retina
+PID_0628,79,69+,Female,30.0,31,231,10.1,63,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0629,31,29-38,Female,28.8,30,199,8.9,65,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0630,75,69+,Male,34.8,18,163,7.4,48,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0631,26,18-28,Male,29.8,17,172,8.4,53,Normal,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0632,57,49-58,Female,21.6,14,156,6.8,9,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_0633,55,49-58,Male,34.2,23,207,9.2,43,Low,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0634,73,69+,Male,33.4,25,187,8.8,65,High,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0635,52,49-58,Female,31.3,15,202,8.7,29,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0636,31,29-38,Male,23.4,22,151,6.3,9,Normal,Moderate,Current,Controlled Glucose,Heart
+PID_0637,79,69+,Female,24.1,3,136,5.9,0,High,High,Former,Controlled Glucose,Retina
+PID_0638,40,39-48,Female,20.0,19,180,8.0,51,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0639,79,69+,Male,30.7,34,225,9.7,73,Low,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0640,53,49-58,Male,22.4,35,209,9.2,71,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0641,22,18-28,Male,20.7,1,114,5.2,0,Low,Sedentary,Never,Controlled Glucose,Full Body
+PID_0642,77,69+,Female,34.5,21,189,8.5,44,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0643,26,18-28,Female,32.1,29,188,8.1,60,High,High,Never,Chronic Hyperglycemia,Retina
+PID_0644,66,59-68,Female,27.1,6,113,5.8,0,Normal,Sedentary,Former,Controlled Glucose,Retina
+PID_0645,25,18-28,Male,28.0,1,112,5.2,9,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_0646,37,29-38,Female,18.5,1,132,5.4,9,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_0647,45,39-48,Female,32.8,27,205,8.6,45,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0648,37,29-38,Female,25.4,21,178,7.4,48,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0649,76,69+,Female,30.1,16,174,7.3,40,High,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0650,23,18-28,Female,18.5,26,167,7.3,67,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0651,70,69+,Female,33.1,16,170,8.0,41,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0652,49,49-58,Female,25.1,28,193,8.7,56,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0653,53,49-58,Male,22.3,1,114,5.8,9,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_0654,48,39-48,Male,27.0,10,174,7.1,32,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0655,41,39-48,Female,25.9,17,166,7.7,42,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0656,45,39-48,Male,33.5,23,183,8.4,55,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0657,33,29-38,Female,26.7,7,151,6.1,0,High,Moderate,Never,Controlled Glucose,Kidney
+PID_0658,71,69+,Female,34.9,7,130,6.4,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0659,56,49-58,Female,30.1,15,145,6.9,9,High,Moderate,Never,Controlled Glucose,Retina
+PID_0660,81,69+,Male,32.7,34,223,9.9,66,Low,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0661,54,49-58,Male,28.6,4,137,5.7,9,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_0662,54,49-58,Male,34.5,14,194,8.7,29,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0663,72,69+,Female,23.3,14,154,6.8,0,Normal,High,Never,Controlled Glucose,Heart
+PID_0664,64,59-68,Female,29.1,16,203,8.5,40,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0665,58,49-58,Female,26.8,7,159,6.7,0,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_0666,33,29-38,Male,35.0,32,210,9.2,63,Low,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0667,24,18-28,Female,35.5,19,194,8.3,47,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0668,22,18-28,Female,28.6,2,118,5.2,9,Normal,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_0669,54,49-58,Male,22.7,10,168,6.4,0,High,Moderate,Current,Controlled Glucose,Heart
+PID_0670,61,59-68,Female,30.6,17,142,7.3,46,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0671,31,29-38,Male,20.9,12,146,5.7,0,Low,High,Never,Controlled Glucose,Retina
+PID_0672,64,59-68,Male,36.1,6,187,7.9,22,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0673,65,59-68,Female,26.4,22,195,8.6,46,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0674,50,49-58,Male,28.5,32,221,9.9,67,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0675,34,29-38,Female,25.5,20,181,8.1,54,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0676,33,29-38,Female,24.5,1,132,5.2,0,High,Moderate,Never,Controlled Glucose,Kidney
+PID_0677,52,49-58,Female,32.0,6,146,6.4,9,Low,Sedentary,Never,Controlled Glucose,Heart
+PID_0678,67,59-68,Male,27.9,19,162,7.5,43,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0679,23,18-28,Female,28.8,18,160,6.6,0,High,Moderate,Never,Controlled Glucose,Heart
+PID_0680,72,69+,Female,24.0,6,145,5.6,0,Normal,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_0681,71,69+,Female,32.5,33,188,9.3,69,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0682,56,49-58,Male,33.0,23,218,8.7,53,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0683,44,39-48,Male,27.6,23,207,9.8,52,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0684,38,29-38,Female,34.4,26,191,9.0,53,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0685,47,39-48,Male,28.1,13,151,7.2,35,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0686,29,29-38,Female,32.2,7,151,6.6,0,Low,Sedentary,Never,Controlled Glucose,Full Body
+PID_0687,50,49-58,Female,21.1,15,150,7.2,44,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0688,47,39-48,Male,30.2,27,171,8.1,55,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0689,31,29-38,Female,27.4,26,209,9.7,58,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0690,47,39-48,Female,29.3,33,209,9.3,77,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0691,55,49-58,Female,29.1,15,163,7.1,35,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0692,72,69+,Female,29.2,27,220,9.3,54,Low,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0693,62,59-68,Female,31.4,5,148,5.9,9,Normal,High,Former,Controlled Glucose,Peripheral Nerves
+PID_0694,28,18-28,Male,26.0,2,152,6.2,0,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_0695,25,18-28,Male,31.2,33,228,10.4,63,High,High,Current,Chronic Hyperglycemia,Full Body
+PID_0696,79,69+,Female,34.3,16,155,7.7,31,Normal,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0697,74,69+,Male,22.1,23,182,9.0,52,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0698,71,69+,Male,25.0,16,182,7.6,37,Low,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0699,66,59-68,Male,25.2,14,176,7.4,26,High,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0700,32,29-38,Female,23.6,29,203,9.4,57,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0701,50,49-58,Female,26.4,26,195,9.4,60,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0702,77,69+,Female,33.4,35,214,10.1,71,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0703,57,49-58,Female,35.3,15,190,8.4,47,High,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0704,46,39-48,Female,29.1,3,161,7.0,10,Low,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0705,42,39-48,Male,27.1,23,176,7.3,59,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0706,78,69+,Female,32.3,29,175,8.0,59,Low,High,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0707,57,49-58,Male,18.5,34,190,8.6,67,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0708,31,29-38,Female,23.7,33,187,7.8,59,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0709,58,49-58,Female,18.5,23,142,7.2,54,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0710,30,29-38,Male,23.7,7,147,6.3,9,High,Sedentary,Current,Controlled Glucose,Heart
+PID_0711,45,39-48,Male,25.1,3,126,5.6,0,Low,Moderate,Former,Controlled Glucose,Kidney
+PID_0712,56,49-58,Male,35.4,32,223,9.7,57,High,High,Former,Chronic Hyperglycemia,Kidney
+PID_0713,70,69+,Male,18.5,31,177,7.6,57,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0714,56,49-58,Male,26.7,18,173,8.0,35,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0715,69,69+,Female,31.5,7,133,6.0,0,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_0716,57,49-58,Female,30.5,1,98,5.2,0,High,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_0717,39,39-48,Female,35.3,14,179,7.6,45,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0718,70,69+,Female,29.3,32,222,9.9,63,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0719,60,59-68,Female,30.3,6,162,6.5,9,Normal,High,Former,Controlled Glucose,Heart
+PID_0720,53,49-58,Female,20.1,10,121,5.4,0,High,Sedentary,Current,Controlled Glucose,Heart
+PID_0721,45,39-48,Male,24.1,7,151,6.2,0,Normal,Moderate,Never,Controlled Glucose,Kidney
+PID_0722,44,39-48,Female,20.4,26,174,8.2,59,Low,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0723,53,49-58,Male,31.2,34,189,9.7,70,High,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0724,58,49-58,Female,30.2,30,198,8.9,61,Low,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0725,33,29-38,Female,30.0,21,183,8.4,39,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0726,70,69+,Female,24.5,17,130,6.1,0,Normal,Moderate,Former,Controlled Glucose,Heart
+PID_0727,76,69+,Male,24.1,33,197,8.4,74,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0728,34,29-38,Female,29.6,10,150,6.0,9,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0729,44,39-48,Female,25.5,12,173,7.6,21,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0730,46,39-48,Male,23.9,16,168,7.5,37,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0731,56,49-58,Male,26.3,32,204,9.1,75,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0732,62,59-68,Female,25.6,15,136,6.2,0,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_0733,51,49-58,Male,24.6,27,202,8.8,54,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0734,38,29-38,Female,23.0,28,190,9.2,62,High,High,Current,Chronic Hyperglycemia,Heart
+PID_0735,70,69+,Male,30.7,17,171,8.1,45,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0736,41,39-48,Male,35.8,2,141,6.5,0,High,Moderate,Never,Controlled Glucose,Heart
+PID_0737,69,69+,Female,28.4,7,162,6.9,0,High,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0738,46,39-48,Male,29.6,13,164,7.4,28,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0739,43,39-48,Female,31.1,15,196,8.1,25,High,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0740,34,29-38,Male,30.3,25,213,9.2,50,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0741,80,69+,Male,24.7,23,168,7.8,57,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0742,40,39-48,Female,36.5,22,193,8.3,46,High,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0743,70,69+,Female,25.1,26,176,8.0,48,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0744,57,49-58,Female,31.6,33,225,9.9,69,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0745,33,29-38,Female,31.0,11,165,6.9,0,High,Sedentary,Current,Controlled Glucose,Kidney
+PID_0746,62,59-68,Female,19.6,10,141,5.6,0,High,Moderate,Current,Controlled Glucose,Heart
+PID_0747,40,39-48,Male,26.9,25,188,8.3,51,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0748,33,29-38,Male,28.9,24,219,9.1,54,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0749,30,29-38,Female,29.2,33,216,9.5,73,Low,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0750,28,18-28,Female,30.0,17,171,7.5,37,Low,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0751,49,49-58,Female,32.1,24,194,8.8,48,High,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0752,35,29-38,Male,28.6,2,132,6.0,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0753,52,49-58,Male,30.2,32,186,8.1,65,Low,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0754,73,69+,Female,28.4,24,198,8.8,54,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0755,40,39-48,Female,23.9,9,153,6.6,0,Normal,High,Never,Controlled Glucose,Full Body
+PID_0756,79,69+,Female,28.7,4,145,6.1,9,Normal,Moderate,Current,Controlled Glucose,Peripheral Nerves
+PID_0757,68,59-68,Female,32.0,17,193,8.5,41,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0758,37,29-38,Female,33.7,17,217,8.8,31,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0759,74,69+,Male,31.1,30,210,9.7,62,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0760,26,18-28,Male,34.7,11,159,6.8,9,Normal,Sedentary,Former,Controlled Glucose,Heart
+PID_0761,56,49-58,Male,30.5,21,169,7.6,42,High,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0762,33,29-38,Male,32.6,21,176,9.0,38,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0763,46,39-48,Female,32.9,18,153,6.8,0,High,Sedentary,Former,Controlled Glucose,Heart
+PID_0764,73,69+,Male,27.6,29,185,8.7,54,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0765,80,69+,Female,31.9,24,198,8.9,44,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0766,42,39-48,Male,24.3,10,123,5.3,9,High,Sedentary,Current,Controlled Glucose,Retina
+PID_0767,57,49-58,Male,30.2,17,180,7.8,34,Low,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0768,74,69+,Male,31.3,18,185,8.5,52,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0769,44,39-48,Male,33.4,20,161,7.3,48,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0770,37,29-38,Female,32.4,18,208,9.0,50,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0771,78,69+,Male,33.5,17,157,7.3,42,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0772,60,59-68,Female,28.1,9,141,7.0,34,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0773,66,59-68,Male,27.0,14,161,7.0,30,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0774,74,69+,Male,27.3,29,208,8.8,58,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0775,63,59-68,Male,29.8,31,195,8.4,52,Normal,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0776,79,69+,Female,20.3,4,146,6.3,9,High,Sedentary,Never,Controlled Glucose,Kidney
+PID_0777,60,59-68,Female,34.7,18,201,8.4,45,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0778,35,29-38,Male,28.8,20,212,9.0,40,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0779,52,49-58,Male,26.7,9,128,5.7,9,High,Moderate,Former,Controlled Glucose,Full Body
+PID_0780,79,69+,Female,18.5,13,145,6.2,0,Low,Sedentary,Current,Controlled Glucose,Full Body
+PID_0781,26,18-28,Male,28.4,15,172,7.5,48,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0782,56,49-58,Male,27.7,27,192,8.6,57,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0783,44,39-48,Female,24.5,15,179,7.4,34,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0784,50,49-58,Female,25.5,28,187,8.4,54,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_0785,64,59-68,Male,28.5,19,198,9.1,52,High,High,Never,Chronic Hyperglycemia,Retina
+PID_0786,32,29-38,Female,25.9,26,162,8.4,52,High,High,Former,Chronic Hyperglycemia,Kidney
+PID_0787,39,39-48,Female,31.2,26,149,6.9,0,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_0788,68,59-68,Male,25.2,25,171,8.2,61,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0789,33,29-38,Female,29.3,26,209,9.4,60,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0790,30,29-38,Female,34.0,26,176,8.4,54,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0791,31,29-38,Male,28.4,28,188,8.1,55,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0792,79,69+,Male,30.2,18,174,7.2,51,Low,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0793,65,59-68,Male,29.9,32,192,8.6,60,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_0794,38,29-38,Female,28.6,3,122,5.7,9,High,Sedentary,Never,Controlled Glucose,Kidney
+PID_0795,59,59-68,Male,28.3,2,151,6.5,9,Normal,Sedentary,Former,Controlled Glucose,Full Body
+PID_0796,28,18-28,Female,26.0,33,243,10.1,75,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0797,67,59-68,Female,29.3,19,160,6.3,0,High,Moderate,Never,Controlled Glucose,Retina
+PID_0798,34,29-38,Male,27.3,17,149,7.2,37,High,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0799,61,59-68,Female,35.7,33,210,10.1,72,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0800,63,59-68,Male,32.3,12,150,7.4,24,High,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0801,30,29-38,Female,21.9,3,141,6.7,9,Normal,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_0802,71,69+,Female,22.2,26,155,6.7,0,High,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_0803,48,39-48,Male,28.0,35,170,7.8,64,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0804,79,69+,Male,26.8,8,167,7.8,20,Normal,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0805,23,18-28,Male,27.8,7,167,6.9,0,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_0806,26,18-28,Male,31.6,16,171,7.3,37,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0807,50,49-58,Male,30.1,24,176,8.6,46,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0808,58,49-58,Male,30.0,1,150,6.1,0,High,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0809,59,59-68,Female,35.3,25,198,8.6,47,Low,High,Former,Chronic Hyperglycemia,Kidney
+PID_0810,40,39-48,Male,22.2,10,152,6.4,0,Low,Sedentary,Never,Controlled Glucose,Heart
+PID_0811,29,29-38,Male,29.1,16,168,7.7,51,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0812,69,69+,Female,25.9,16,189,8.5,40,High,High,Former,Chronic Hyperglycemia,Retina
+PID_0813,66,59-68,Male,35.2,8,154,7.7,38,High,High,Never,Chronic Hyperglycemia,Retina
+PID_0814,22,18-28,Female,18.5,29,214,9.2,55,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0815,43,39-48,Female,18.6,28,151,7.1,62,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0816,73,69+,Female,30.0,6,133,6.2,9,Low,Sedentary,Former,Controlled Glucose,Heart
+PID_0817,38,29-38,Male,33.8,16,171,8.0,38,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0818,28,18-28,Male,32.2,20,175,6.9,0,Normal,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0819,46,39-48,Male,24.9,16,171,7.9,38,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0820,66,59-68,Female,35.5,7,177,7.4,28,Normal,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0821,25,18-28,Male,22.9,14,148,6.5,0,Normal,Moderate,Former,Controlled Glucose,Retina
+PID_0822,57,49-58,Male,34.6,26,191,8.9,56,Normal,High,Never,Chronic Hyperglycemia,Retina
+PID_0823,27,18-28,Female,23.5,26,191,9.0,62,Normal,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0824,81,69+,Male,27.0,14,144,6.6,9,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_0825,52,49-58,Male,31.5,7,169,7.5,21,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0826,40,39-48,Male,21.9,33,199,8.6,59,Normal,High,Current,Chronic Hyperglycemia,Retina
+PID_0827,65,59-68,Female,35.4,26,209,9.6,57,Normal,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0828,75,69+,Male,27.0,20,171,7.8,42,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0829,60,59-68,Female,29.2,3,161,7.5,18,Normal,High,Never,Chronic Hyperglycemia,Kidney
+PID_0830,48,39-48,Female,33.9,4,126,6.0,9,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_0831,31,29-38,Male,25.0,26,165,7.9,59,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0832,47,39-48,Female,33.5,11,154,6.3,0,High,High,Never,Controlled Glucose,Peripheral Nerves
+PID_0833,40,39-48,Male,36.1,2,129,5.8,9,High,High,Never,Controlled Glucose,Retina
+PID_0834,60,59-68,Male,25.6,14,165,7.5,42,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0835,24,18-28,Female,34.9,30,226,10.5,73,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0836,66,59-68,Female,20.5,12,154,6.9,0,Low,Moderate,Former,Controlled Glucose,Retina
+PID_0837,34,29-38,Female,30.4,26,198,8.7,70,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0838,71,69+,Male,22.9,33,181,8.3,63,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0839,49,49-58,Male,32.9,13,182,8.0,30,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0840,79,69+,Male,32.6,14,171,6.9,9,High,Sedentary,Never,Controlled Glucose,Heart
+PID_0841,41,39-48,Male,38.2,24,176,8.2,53,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0842,49,49-58,Male,35.1,34,211,9.7,65,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0843,29,29-38,Male,27.8,26,170,7.2,60,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0844,62,59-68,Male,23.6,21,168,6.7,0,Normal,Sedentary,Former,Controlled Glucose,Heart
+PID_0845,60,59-68,Male,31.2,28,214,10.2,56,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0846,22,18-28,Male,28.3,2,104,5.2,0,Low,Sedentary,Never,Controlled Glucose,Retina
+PID_0847,24,18-28,Male,35.7,9,148,6.5,0,Normal,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0848,34,29-38,Female,18.6,23,168,7.5,47,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0849,49,49-58,Male,38.7,15,191,8.2,41,Low,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0850,78,69+,Female,31.0,13,169,7.2,29,Low,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0851,81,69+,Female,24.9,23,150,6.6,0,High,Sedentary,Former,Controlled Glucose,Heart
+PID_0852,70,69+,Male,32.0,17,199,8.4,48,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0853,46,39-48,Female,34.6,2,133,6.1,0,High,Moderate,Current,Controlled Glucose,Full Body
+PID_0854,77,69+,Female,29.1,20,197,8.7,35,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0855,54,49-58,Female,20.5,20,143,6.8,9,Low,High,Former,Controlled Glucose,Peripheral Nerves
+PID_0856,59,59-68,Male,27.2,3,148,6.5,0,Normal,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_0857,74,69+,Male,33.4,12,170,8.2,33,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0858,27,18-28,Male,30.9,2,123,5.8,0,Low,Sedentary,Never,Controlled Glucose,Retina
+PID_0859,79,69+,Female,27.9,14,191,7.7,36,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0860,65,59-68,Female,34.6,16,143,7.1,38,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0861,66,59-68,Female,32.0,19,182,8.2,43,Low,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0862,53,49-58,Female,32.4,34,241,10.5,76,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0863,66,59-68,Female,26.7,6,171,6.5,0,Low,Moderate,Never,Controlled Glucose,Full Body
+PID_0864,68,59-68,Male,26.3,13,192,8.5,37,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0865,42,39-48,Male,20.8,22,180,7.9,50,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0866,37,29-38,Female,27.4,18,166,7.3,39,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0867,75,69+,Male,32.9,12,216,9.2,31,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0868,42,39-48,Male,27.7,30,226,10.0,69,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0869,32,29-38,Male,30.6,7,124,5.6,9,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_0870,81,69+,Male,33.7,32,214,9.1,63,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0871,58,49-58,Female,30.3,19,159,7.2,45,Normal,High,Former,Chronic Hyperglycemia,Retina
+PID_0872,57,49-58,Female,30.8,6,141,6.9,0,High,Sedentary,Never,Controlled Glucose,Heart
+PID_0873,56,49-58,Female,22.4,20,160,7.8,49,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0874,40,39-48,Female,27.1,27,197,8.9,60,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0875,41,39-48,Male,36.5,7,139,6.0,9,Normal,Sedentary,Current,Controlled Glucose,Kidney
+PID_0876,78,69+,Male,29.1,5,145,5.9,9,High,Sedentary,Former,Controlled Glucose,Kidney
+PID_0877,39,39-48,Female,37.3,11,176,7.5,38,Low,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0878,68,59-68,Male,25.3,15,137,5.9,9,High,High,Never,Controlled Glucose,Heart
+PID_0879,62,59-68,Female,29.7,3,138,5.5,0,High,Sedentary,Former,Controlled Glucose,Heart
+PID_0880,70,69+,Female,26.8,5,159,7.0,20,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0881,35,29-38,Male,31.3,23,154,7.4,56,Low,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0882,36,29-38,Female,32.7,9,165,8.0,14,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0883,52,49-58,Female,31.4,15,199,8.3,31,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0884,22,18-28,Female,33.4,3,120,6.2,9,Normal,Sedentary,Former,Controlled Glucose,Heart
+PID_0885,74,69+,Male,28.5,29,186,8.4,58,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0886,75,69+,Male,27.7,6,185,6.8,9,High,Sedentary,Never,Controlled Glucose,Retina
+PID_0887,75,69+,Male,20.5,17,151,6.4,9,Normal,Moderate,Current,Controlled Glucose,Kidney
+PID_0888,24,18-28,Male,31.5,26,184,8.3,51,High,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0889,37,29-38,Male,29.4,21,163,8.0,48,Low,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0890,44,39-48,Female,28.3,8,137,5.2,9,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_0891,78,69+,Male,27.7,21,171,7.0,49,High,High,Former,Chronic Hyperglycemia,Retina
+PID_0892,32,29-38,Female,28.4,11,160,6.7,0,High,Moderate,Never,Controlled Glucose,Full Body
+PID_0893,33,29-38,Female,27.5,8,155,6.8,0,Normal,High,Never,Controlled Glucose,Full Body
+PID_0894,31,29-38,Female,26.2,24,177,7.6,62,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0895,53,49-58,Male,29.7,35,210,9.5,62,High,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0896,37,29-38,Female,30.8,14,137,6.4,0,High,Moderate,Current,Controlled Glucose,Retina
+PID_0897,29,29-38,Male,25.1,14,181,7.6,31,Normal,High,Never,Chronic Hyperglycemia,Kidney
+PID_0898,59,59-68,Male,26.8,10,154,6.8,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_0899,33,29-38,Female,27.7,12,166,7.1,24,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0900,45,39-48,Male,28.6,34,214,9.7,69,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0901,49,49-58,Male,28.0,10,159,6.8,0,Normal,High,Never,Controlled Glucose,Retina
+PID_0902,74,69+,Female,31.6,17,169,7.5,36,Normal,High,Never,Chronic Hyperglycemia,Heart
+PID_0903,29,29-38,Male,21.0,17,173,7.7,53,High,High,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0904,79,69+,Male,21.8,3,130,5.6,0,High,High,Current,Controlled Glucose,Peripheral Nerves
+PID_0905,49,49-58,Male,29.5,31,233,9.1,62,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0906,57,49-58,Female,25.8,1,138,5.6,0,Low,Sedentary,Current,Controlled Glucose,Kidney
+PID_0907,47,39-48,Female,32.7,12,191,7.3,30,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_0908,29,29-38,Male,34.0,4,146,6.4,0,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_0909,79,69+,Male,29.7,13,166,7.5,33,High,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_0910,81,69+,Male,23.7,34,178,8.4,82,High,High,Former,Chronic Hyperglycemia,Full Body
+PID_0911,71,69+,Male,33.5,21,192,7.8,45,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0912,49,49-58,Female,29.5,22,181,8.5,44,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0913,49,49-58,Male,21.8,4,146,5.5,0,Low,High,Never,Controlled Glucose,Heart
+PID_0914,58,49-58,Male,22.2,18,166,7.8,41,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0915,62,59-68,Female,35.6,5,170,7.1,37,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0916,57,49-58,Female,34.8,19,162,7.9,40,High,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0917,48,39-48,Female,18.5,2,123,5.5,0,Low,Sedentary,Former,Controlled Glucose,Retina
+PID_0918,75,69+,Male,22.4,12,166,7.3,39,Normal,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_0919,38,29-38,Male,33.8,17,180,8.3,39,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0920,30,29-38,Male,28.5,10,162,7.2,29,Low,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_0921,54,49-58,Male,31.8,34,212,9.6,64,High,High,Former,Chronic Hyperglycemia,Kidney
+PID_0922,74,69+,Female,28.3,6,167,7.0,19,High,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0923,41,39-48,Female,31.6,8,126,6.4,0,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_0924,34,29-38,Female,28.6,11,155,7.1,32,Normal,High,Current,Chronic Hyperglycemia,Full Body
+PID_0925,49,49-58,Female,26.6,12,203,8.5,24,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_0926,69,69+,Male,33.5,9,173,7.4,29,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0927,50,49-58,Female,29.5,2,144,5.7,0,Low,Moderate,Current,Controlled Glucose,Full Body
+PID_0928,34,29-38,Male,31.6,8,156,6.5,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_0929,67,59-68,Female,29.3,11,146,6.9,0,Normal,Moderate,Current,Controlled Glucose,Full Body
+PID_0930,56,49-58,Male,26.4,10,170,7.2,28,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0931,27,18-28,Male,36.0,21,196,8.7,51,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0932,39,39-48,Male,30.2,20,194,7.6,45,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0933,72,69+,Female,27.0,8,146,6.0,0,High,Sedentary,Never,Controlled Glucose,Heart
+PID_0934,26,18-28,Male,34.5,29,215,9.4,63,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0935,68,59-68,Male,22.5,12,155,6.5,0,High,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_0936,46,39-48,Male,38.9,14,191,8.3,35,Normal,High,Former,Chronic Hyperglycemia,Full Body
+PID_0937,23,18-28,Female,27.8,21,195,8.5,55,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0938,31,29-38,Female,22.8,22,207,9.4,52,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_0939,77,69+,Female,37.4,21,181,7.8,40,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_0940,51,49-58,Male,26.5,30,217,9.3,60,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_0941,71,69+,Female,29.7,20,191,8.0,45,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0942,80,69+,Male,31.9,24,177,7.4,53,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0943,66,59-68,Female,34.0,23,227,9.5,52,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0944,26,18-28,Female,30.0,7,166,6.8,0,Low,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_0945,76,69+,Male,25.6,9,165,7.0,27,Normal,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_0946,77,69+,Male,29.6,1,110,5.2,0,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_0947,54,49-58,Male,26.7,26,175,8.3,63,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0948,75,69+,Male,29.7,22,167,7.5,43,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0949,22,18-28,Male,36.1,10,197,8.8,29,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0950,39,39-48,Female,32.1,6,181,7.4,18,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_0951,53,49-58,Male,29.6,17,135,7.2,52,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0952,68,59-68,Male,32.0,24,161,7.6,60,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0953,70,69+,Male,32.3,10,161,7.2,19,Normal,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_0954,32,29-38,Male,23.6,8,147,6.9,9,Normal,Moderate,Former,Controlled Glucose,Heart
+PID_0955,42,39-48,Female,28.8,21,149,6.9,0,Low,Sedentary,Former,Controlled Glucose,Heart
+PID_0956,47,39-48,Male,40.4,6,148,6.7,0,Low,Sedentary,Never,Controlled Glucose,Heart
+PID_0957,46,39-48,Female,34.2,21,164,7.7,50,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0958,43,39-48,Female,26.3,24,187,8.7,54,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0959,80,69+,Female,25.8,33,213,8.9,74,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0960,48,39-48,Female,25.7,18,169,7.2,47,Normal,High,Never,Chronic Hyperglycemia,Heart
+PID_0961,70,69+,Male,32.6,28,213,9.2,58,Low,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0962,34,29-38,Female,36.0,32,205,9.2,59,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0963,54,49-58,Male,31.3,12,154,6.3,9,High,High,Never,Controlled Glucose,Full Body
+PID_0964,55,49-58,Male,29.3,27,222,9.6,57,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_0965,62,59-68,Female,26.6,10,178,7.6,18,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0966,56,49-58,Female,30.1,32,203,9.4,68,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0967,22,18-28,Female,24.8,26,184,8.4,54,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0968,42,39-48,Male,19.7,25,201,8.5,66,High,High,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0969,69,69+,Male,36.1,11,166,7.6,33,Normal,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0970,76,69+,Female,24.0,23,159,7.6,51,Normal,High,Current,Chronic Hyperglycemia,Full Body
+PID_0971,27,18-28,Male,27.1,34,202,9.3,60,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0972,49,49-58,Female,31.6,23,225,9.4,44,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_0973,38,29-38,Female,35.2,29,204,9.4,65,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_0974,26,18-28,Male,29.8,31,200,8.8,63,Normal,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_0975,52,49-58,Male,23.1,7,134,6.1,0,Low,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0976,26,18-28,Male,27.2,33,221,9.6,68,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_0977,59,59-68,Male,25.5,21,187,8.1,49,Low,High,Never,Chronic Hyperglycemia,Full Body
+PID_0978,24,18-28,Female,28.4,2,129,6.3,0,Normal,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_0979,74,69+,Male,34.3,18,174,7.6,48,Low,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_0980,44,39-48,Female,18.5,33,184,9.0,63,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_0981,58,49-58,Male,26.7,34,202,9.3,73,Low,High,Former,Chronic Hyperglycemia,Kidney
+PID_0982,74,69+,Female,26.4,20,163,7.2,51,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_0983,58,49-58,Male,22.8,35,232,9.6,72,Low,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_0984,31,29-38,Male,31.3,18,175,7.6,53,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_0985,31,29-38,Male,22.1,24,147,6.8,0,Normal,Moderate,Current,Controlled Glucose,Retina
+PID_0986,40,39-48,Female,22.6,8,122,5.4,9,High,Sedentary,Current,Controlled Glucose,Heart
+PID_0987,38,29-38,Female,32.5,30,214,9.2,55,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_0988,42,39-48,Female,35.5,10,166,7.7,34,High,High,Current,Chronic Hyperglycemia,Heart
+PID_0989,35,29-38,Male,28.2,23,183,7.6,50,High,High,Former,Chronic Hyperglycemia,Kidney
+PID_0990,30,29-38,Male,23.0,11,139,6.3,9,High,Sedentary,Never,Controlled Glucose,Retina
+PID_0991,67,59-68,Male,25.4,2,112,5.2,0,Normal,High,Former,Controlled Glucose,Retina
+PID_0992,22,18-28,Male,33.2,26,209,9.6,55,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0993,72,69+,Male,29.1,33,216,10.5,66,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_0994,66,59-68,Female,28.1,13,160,8.1,35,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0995,34,29-38,Female,30.0,25,204,9.2,59,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_0996,25,18-28,Female,28.4,4,152,6.7,0,High,Moderate,Never,Controlled Glucose,Heart
+PID_0997,22,18-28,Female,35.7,19,162,7.0,55,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_0998,70,69+,Male,25.2,18,169,7.5,39,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_0999,61,59-68,Male,24.6,30,210,8.3,67,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1000,53,49-58,Female,22.2,19,177,7.8,45,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1001,55,49-58,Female,26.1,23,133,6.4,9,High,Moderate,Never,Controlled Glucose,Full Body
+PID_1002,49,49-58,Male,23.6,16,152,7.2,39,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1003,52,49-58,Male,29.6,1,132,5.7,9,Low,Sedentary,Never,Controlled Glucose,Heart
+PID_1004,29,29-38,Male,28.7,12,169,7.7,30,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_1005,60,59-68,Female,23.6,24,187,8.9,45,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1006,47,39-48,Female,31.3,34,200,9.0,67,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_1007,79,69+,Female,35.6,8,150,6.6,0,Normal,Moderate,Former,Controlled Glucose,Kidney
+PID_1008,55,49-58,Male,30.2,18,194,7.9,48,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1009,75,69+,Female,18.5,5,141,6.6,9,High,High,Never,Controlled Glucose,Full Body
+PID_1010,75,69+,Female,37.7,26,203,9.3,54,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1011,24,18-28,Male,32.0,30,204,8.4,64,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1012,80,69+,Male,37.6,13,171,7.4,35,High,High,Never,Chronic Hyperglycemia,Kidney
+PID_1013,71,69+,Male,33.6,19,177,8.3,41,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_1014,33,29-38,Male,34.5,29,204,9.5,64,Low,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_1015,22,18-28,Female,29.5,3,117,5.6,0,High,Moderate,Former,Controlled Glucose,Retina
+PID_1016,75,69+,Male,27.4,26,181,8.0,53,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1017,65,59-68,Female,30.3,12,159,6.5,9,Low,Sedentary,Former,Controlled Glucose,Heart
+PID_1018,26,18-28,Male,25.3,2,163,6.4,0,Normal,Sedentary,Former,Controlled Glucose,Full Body
+PID_1019,51,49-58,Male,30.6,11,134,6.5,9,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_1020,51,49-58,Male,18.5,28,182,7.7,61,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_1021,80,69+,Male,28.8,18,169,7.4,35,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_1022,78,69+,Male,34.8,13,148,6.6,0,Normal,Sedentary,Current,Controlled Glucose,Kidney
+PID_1023,38,29-38,Female,29.0,22,167,7.6,46,High,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1024,69,69+,Female,36.5,12,169,8.4,35,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1025,68,59-68,Female,27.4,2,128,5.2,9,High,Moderate,Former,Controlled Glucose,Kidney
+PID_1026,44,39-48,Male,33.2,7,129,6.2,0,High,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_1027,36,29-38,Male,24.6,26,160,7.4,59,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1028,58,49-58,Male,33.0,26,201,8.8,55,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1029,42,39-48,Female,29.7,24,195,9.6,42,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1030,35,29-38,Male,27.6,12,142,6.8,0,High,Moderate,Never,Controlled Glucose,Full Body
+PID_1031,23,18-28,Male,18.5,16,165,6.7,9,High,Sedentary,Current,Controlled Glucose,Full Body
+PID_1032,32,29-38,Female,27.4,23,173,7.6,53,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1033,72,69+,Male,29.6,9,146,6.7,0,Low,Moderate,Former,Controlled Glucose,Heart
+PID_1034,60,59-68,Male,32.4,32,230,10.3,64,High,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1035,59,59-68,Male,35.8,15,187,8.0,41,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1036,81,69+,Female,38.0,13,219,9.3,30,Low,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_1037,55,49-58,Female,34.3,5,158,7.5,23,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_1038,59,59-68,Male,26.0,11,140,6.6,0,Low,High,Never,Controlled Glucose,Kidney
+PID_1039,71,69+,Male,27.2,10,157,6.6,9,Normal,Sedentary,Current,Controlled Glucose,Full Body
+PID_1040,55,49-58,Female,32.0,13,197,8.5,34,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1041,39,39-48,Female,31.0,15,158,7.6,31,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_1042,51,49-58,Male,36.1,7,170,8.0,26,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1043,36,29-38,Female,40.0,28,241,11.0,62,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1044,48,39-48,Male,39.0,32,220,9.9,68,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1045,72,69+,Female,35.5,35,229,10.3,81,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_1046,55,49-58,Female,31.0,15,171,8.2,37,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1047,73,69+,Male,34.8,21,201,9.0,48,Normal,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1048,78,69+,Female,36.2,6,162,7.5,15,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1049,59,59-68,Female,27.9,1,110,5.2,0,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_1050,54,49-58,Female,26.1,4,125,5.4,9,Normal,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_1051,45,39-48,Male,25.1,11,143,6.3,9,Normal,Sedentary,Former,Controlled Glucose,Heart
+PID_1052,36,29-38,Male,24.6,26,209,9.0,53,High,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_1053,81,69+,Male,22.2,23,148,6.9,9,Normal,Moderate,Never,Controlled Glucose,Kidney
+PID_1054,51,49-58,Female,29.7,29,224,10.0,53,Low,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1055,76,69+,Male,24.0,21,166,8.1,53,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1056,63,59-68,Female,25.0,27,200,9.1,52,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1057,72,69+,Female,31.8,13,159,6.8,9,Normal,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1058,38,29-38,Male,29.4,23,192,8.3,46,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1059,26,18-28,Female,30.6,16,181,7.8,45,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1060,50,49-58,Male,34.9,30,224,9.7,58,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1061,25,18-28,Female,32.6,4,146,6.6,0,Normal,High,Former,Controlled Glucose,Full Body
+PID_1062,31,29-38,Male,35.6,16,181,7.8,39,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1063,77,69+,Male,29.0,31,224,9.2,60,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1064,38,29-38,Male,36.0,25,211,9.7,49,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_1065,31,29-38,Male,30.3,12,160,6.4,0,High,High,Former,Controlled Glucose,Retina
+PID_1066,38,29-38,Female,29.4,26,222,9.6,58,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1067,81,69+,Female,35.3,33,230,10.5,68,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_1068,41,39-48,Female,24.6,28,174,7.8,60,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1069,45,39-48,Male,37.9,9,175,7.7,25,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1070,26,18-28,Male,27.3,12,178,7.5,36,Normal,High,Never,Chronic Hyperglycemia,Heart
+PID_1071,55,49-58,Male,23.0,5,125,5.2,0,Normal,Sedentary,Former,Controlled Glucose,Full Body
+PID_1072,27,18-28,Female,31.6,28,196,9.0,63,Normal,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1073,74,69+,Female,26.9,35,189,9.4,70,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1074,23,18-28,Male,37.9,5,157,6.6,9,Low,Moderate,Current,Controlled Glucose,Retina
+PID_1075,34,29-38,Male,26.6,34,188,9.3,58,Normal,High,Former,Chronic Hyperglycemia,Full Body
+PID_1076,64,59-68,Female,30.0,34,189,9.1,69,Normal,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1077,64,59-68,Female,22.0,13,165,7.5,22,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1078,69,69+,Female,32.3,14,149,7.1,35,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_1079,32,29-38,Female,25.0,11,164,7.1,39,Low,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1080,72,69+,Male,31.8,4,120,5.3,0,High,Moderate,Current,Controlled Glucose,Full Body
+PID_1081,68,59-68,Male,26.6,33,211,9.1,60,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1082,78,69+,Female,19.2,7,116,5.7,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_1083,44,39-48,Female,29.2,8,142,6.5,0,Normal,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1084,76,69+,Male,29.0,10,151,6.6,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_1085,37,29-38,Female,32.7,15,164,7.2,46,Normal,High,Former,Chronic Hyperglycemia,Full Body
+PID_1086,52,49-58,Female,35.8,15,195,8.4,32,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1087,32,29-38,Female,37.4,5,162,7.6,14,Low,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1088,75,69+,Female,32.6,29,198,9.1,65,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1089,37,29-38,Male,29.9,19,168,7.2,37,Low,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1090,29,29-38,Female,22.0,10,145,7.4,34,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1091,25,18-28,Female,29.5,12,152,6.5,0,Low,Moderate,Current,Controlled Glucose,Kidney
+PID_1092,61,59-68,Female,29.6,4,131,5.3,0,High,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_1093,25,18-28,Female,27.7,31,160,7.7,69,Normal,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1094,77,69+,Female,31.5,18,177,8.0,43,Low,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1095,46,39-48,Male,33.8,16,189,7.7,49,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1096,24,18-28,Female,24.8,25,203,8.8,61,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1097,53,49-58,Female,24.8,23,191,8.3,53,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1098,24,18-28,Female,28.0,12,171,7.1,21,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1099,48,39-48,Female,25.8,34,219,9.0,66,Low,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1100,50,49-58,Female,21.1,3,140,6.1,9,Normal,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_1101,53,49-58,Male,24.0,9,165,7.5,19,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1102,71,69+,Male,22.9,18,188,7.9,38,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1103,79,69+,Male,34.2,35,214,9.7,65,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1104,72,69+,Male,36.4,34,225,10.6,72,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1105,40,39-48,Female,23.6,14,145,6.6,0,Normal,High,Never,Controlled Glucose,Full Body
+PID_1106,42,39-48,Female,31.1,4,133,5.6,0,High,Moderate,Current,Controlled Glucose,Retina
+PID_1107,26,18-28,Male,32.6,29,188,8.6,56,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1108,39,39-48,Male,21.7,15,147,6.6,0,High,Sedentary,Never,Controlled Glucose,Retina
+PID_1109,49,49-58,Female,29.3,28,189,8.9,54,Normal,High,Never,Chronic Hyperglycemia,Retina
+PID_1110,63,59-68,Male,40.3,16,230,9.7,38,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1111,43,39-48,Male,31.7,12,149,6.7,9,High,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_1112,42,39-48,Male,27.5,5,152,7.0,27,Low,High,Never,Chronic Hyperglycemia,Heart
+PID_1113,27,18-28,Male,26.0,34,195,9.0,57,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1114,22,18-28,Male,19.3,1,129,5.2,0,Low,Moderate,Never,Controlled Glucose,Heart
+PID_1115,26,18-28,Male,30.8,32,209,9.1,75,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1116,62,59-68,Male,37.6,26,217,10.0,58,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1117,33,29-38,Female,24.9,17,170,7.5,41,Normal,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_1118,47,39-48,Female,19.7,27,187,8.2,55,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1119,67,59-68,Female,25.5,24,192,8.9,61,High,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_1120,55,49-58,Male,32.7,35,190,9.2,68,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1121,70,69+,Male,26.6,26,179,7.7,56,High,High,Former,Chronic Hyperglycemia,Retina
+PID_1122,35,29-38,Female,24.8,23,140,6.4,0,High,Sedentary,Never,Controlled Glucose,Full Body
+PID_1123,47,39-48,Male,28.7,22,199,8.7,50,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1124,66,59-68,Male,29.7,4,154,6.6,0,High,Moderate,Never,Controlled Glucose,Full Body
+PID_1125,48,39-48,Female,22.2,9,151,6.6,0,High,Sedentary,Never,Controlled Glucose,Heart
+PID_1126,30,29-38,Female,27.6,4,119,5.3,0,Low,Sedentary,Never,Controlled Glucose,Full Body
+PID_1127,47,39-48,Male,26.3,7,115,5.2,0,High,Sedentary,Current,Controlled Glucose,Retina
+PID_1128,78,69+,Male,25.7,23,150,7.1,46,High,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1129,68,59-68,Female,23.9,2,115,5.2,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_1130,78,69+,Male,32.9,24,221,9.7,64,Low,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1131,43,39-48,Female,25.6,31,225,9.5,54,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1132,68,59-68,Female,19.4,31,195,8.1,62,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1133,77,69+,Female,29.8,34,217,9.7,71,Low,High,Former,Chronic Hyperglycemia,Heart
+PID_1134,51,49-58,Male,31.9,24,198,8.2,51,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1135,64,59-68,Female,24.9,26,187,8.5,74,Low,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1136,69,69+,Female,26.0,16,136,6.5,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_1137,38,29-38,Male,25.6,13,187,7.4,28,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_1138,47,39-48,Male,27.0,15,158,6.7,0,High,Sedentary,Never,Controlled Glucose,Heart
+PID_1139,57,49-58,Female,33.7,27,198,9.6,60,Normal,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_1140,22,18-28,Male,28.1,4,149,5.8,9,High,Moderate,Current,Controlled Glucose,Kidney
+PID_1141,29,29-38,Male,32.5,16,156,7.2,47,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1142,70,69+,Male,24.1,30,210,9.7,61,Normal,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_1143,56,49-58,Female,26.8,30,211,9.0,60,Low,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1144,73,69+,Female,33.0,3,156,6.2,0,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_1145,36,29-38,Female,24.9,22,176,8.3,55,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_1146,68,59-68,Male,33.3,22,186,7.6,52,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1147,77,69+,Male,25.7,12,178,7.5,43,Low,High,Former,Chronic Hyperglycemia,Kidney
+PID_1148,43,39-48,Female,27.1,21,168,7.8,46,Low,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1149,35,29-38,Male,36.3,4,159,7.1,24,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_1150,47,39-48,Male,26.6,31,193,7.9,70,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1151,49,49-58,Female,29.3,31,183,8.9,69,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1152,44,39-48,Female,31.4,23,202,8.4,48,Normal,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1153,35,29-38,Female,29.6,20,201,8.6,49,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_1154,45,39-48,Female,29.8,15,183,7.9,37,Low,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1155,23,18-28,Female,28.3,23,179,7.9,50,Normal,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1156,66,59-68,Male,22.6,28,210,8.5,55,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1157,47,39-48,Female,30.2,16,210,8.4,26,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1158,35,29-38,Female,25.2,21,165,7.6,55,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1159,80,69+,Male,32.2,15,174,7.4,40,High,High,Never,Chronic Hyperglycemia,Kidney
+PID_1160,77,69+,Female,34.9,17,174,6.8,0,High,Sedentary,Former,Controlled Glucose,Kidney
+PID_1161,72,69+,Female,20.3,13,136,6.3,9,High,Moderate,Current,Controlled Glucose,Retina
+PID_1162,28,18-28,Female,34.9,19,166,7.2,52,Low,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1163,24,18-28,Female,26.7,30,207,8.8,68,High,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1164,68,59-68,Female,28.0,18,166,8.3,37,High,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_1165,44,39-48,Female,24.4,14,136,5.5,0,Low,Moderate,Never,Controlled Glucose,Kidney
+PID_1166,67,59-68,Male,29.5,20,186,8.8,43,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1167,64,59-68,Female,28.9,19,174,7.6,49,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_1168,68,59-68,Male,33.6,7,166,6.8,0,High,Sedentary,Never,Controlled Glucose,Retina
+PID_1169,81,69+,Male,25.2,4,104,5.5,9,High,Sedentary,Current,Controlled Glucose,Heart
+PID_1170,66,59-68,Male,36.2,34,207,8.9,60,High,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_1171,39,39-48,Male,31.7,2,150,5.6,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_1172,79,69+,Male,29.0,5,166,7.6,10,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1173,59,59-68,Female,27.8,10,144,6.0,9,High,Moderate,Former,Controlled Glucose,Kidney
+PID_1174,56,49-58,Female,27.2,32,195,8.1,73,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1175,72,69+,Female,27.5,13,145,7.1,43,Low,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1176,36,29-38,Male,29.4,5,150,6.2,9,High,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1177,46,39-48,Female,27.6,10,159,6.5,0,Low,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_1178,76,69+,Female,25.7,10,157,6.6,0,Normal,Sedentary,Former,Controlled Glucose,Full Body
+PID_1179,58,49-58,Female,29.4,27,204,9.1,61,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1180,49,49-58,Male,24.8,21,155,7.3,42,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_1181,31,29-38,Male,30.1,8,169,6.8,9,High,High,Current,Controlled Glucose,Heart
+PID_1182,60,59-68,Male,27.6,1,147,6.4,0,High,Moderate,Former,Controlled Glucose,Retina
+PID_1183,78,69+,Male,31.8,28,179,8.4,56,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1184,38,29-38,Male,33.1,14,137,6.1,9,Normal,High,Never,Controlled Glucose,Retina
+PID_1185,60,59-68,Female,33.1,21,200,8.8,52,Normal,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_1186,43,39-48,Male,30.1,30,221,10.7,55,Low,Moderate,Current,Chronic Hyperglycemia,Heart
+PID_1187,47,39-48,Male,30.6,21,184,8.2,43,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1188,65,59-68,Male,27.1,9,149,6.7,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_1189,46,39-48,Male,31.7,17,185,7.6,42,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1190,38,29-38,Male,32.2,5,153,7.6,17,Low,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_1191,34,29-38,Male,21.4,31,200,8.5,68,Normal,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_1192,41,39-48,Male,30.3,19,190,7.8,44,Low,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_1193,46,39-48,Female,34.9,33,212,10.4,53,High,High,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1194,25,18-28,Female,27.0,13,136,6.7,0,Normal,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1195,31,29-38,Male,26.0,14,160,6.2,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_1196,24,18-28,Male,26.7,33,207,9.7,72,High,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1197,62,59-68,Female,21.7,29,209,7.9,65,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1198,66,59-68,Male,29.2,10,124,6.2,0,High,Sedentary,Never,Controlled Glucose,Retina
+PID_1199,39,39-48,Male,28.7,31,234,10.5,67,Low,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1200,68,59-68,Female,29.5,6,144,6.3,0,High,Moderate,Former,Controlled Glucose,Retina
+PID_1201,57,49-58,Male,30.5,1,142,6.3,9,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_1202,68,59-68,Female,24.9,7,147,6.2,0,High,High,Never,Controlled Glucose,Retina
+PID_1203,43,39-48,Female,29.9,27,189,8.2,58,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1204,55,49-58,Male,30.6,21,191,8.6,55,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1205,68,59-68,Male,26.4,28,187,8.8,60,Normal,Moderate,Current,Chronic Hyperglycemia,Retina
+PID_1206,29,29-38,Female,30.5,16,174,7.2,39,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1207,61,59-68,Male,29.0,23,197,8.5,48,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1208,70,69+,Male,25.7,20,166,7.3,52,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1209,65,59-68,Female,29.9,25,182,7.8,47,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_1210,40,39-48,Female,27.3,28,186,7.9,55,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1211,63,59-68,Male,31.8,5,145,6.7,0,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_1212,62,59-68,Female,27.5,21,179,7.7,49,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1213,58,49-58,Male,22.7,18,179,8.2,50,Low,High,Never,Chronic Hyperglycemia,Retina
+PID_1214,27,18-28,Female,29.8,6,154,6.4,0,High,Sedentary,Current,Controlled Glucose,Retina
+PID_1215,73,69+,Female,29.7,29,189,8.5,55,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1216,47,39-48,Female,23.6,19,176,7.5,54,Normal,High,Current,Chronic Hyperglycemia,Kidney
+PID_1217,55,49-58,Male,32.1,33,192,8.8,71,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1218,80,69+,Female,31.8,1,145,6.0,0,High,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1219,77,69+,Male,24.6,3,126,5.9,9,Normal,Moderate,Current,Controlled Glucose,Retina
+PID_1220,80,69+,Female,25.6,21,178,7.9,52,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1221,66,59-68,Male,27.9,35,238,10.3,73,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1222,27,18-28,Male,25.1,3,172,7.4,14,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1223,58,49-58,Male,31.5,25,205,9.1,53,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1224,78,69+,Female,29.3,20,213,8.7,40,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_1225,54,49-58,Female,23.6,34,247,10.7,63,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_1226,74,69+,Male,24.8,21,168,7.0,46,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1227,43,39-48,Male,34.1,23,201,8.7,58,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_1228,42,39-48,Female,35.7,6,158,6.6,0,High,Sedentary,Current,Controlled Glucose,Retina
+PID_1229,27,18-28,Male,31.1,13,194,7.9,39,Low,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1230,27,18-28,Male,27.6,23,182,8.3,46,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1231,76,69+,Female,26.6,9,148,6.0,9,Normal,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_1232,69,69+,Female,31.1,17,179,7.8,44,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1233,25,18-28,Female,28.9,2,147,6.6,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_1234,51,49-58,Male,21.2,19,143,6.3,0,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_1235,32,29-38,Male,33.3,19,174,7.6,35,High,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_1236,51,49-58,Female,34.8,7,136,6.3,0,Low,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1237,52,49-58,Female,32.0,20,197,8.4,40,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_1238,45,39-48,Female,23.6,9,160,7.1,31,Normal,High,Current,Chronic Hyperglycemia,Kidney
+PID_1239,76,69+,Female,25.7,17,139,6.0,9,High,High,Former,Controlled Glucose,Heart
+PID_1240,30,29-38,Male,20.1,27,194,8.0,60,Low,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1241,76,69+,Female,35.9,2,137,5.9,9,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_1242,24,18-28,Male,27.0,19,202,8.3,49,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1243,72,69+,Male,39.3,17,181,8.3,47,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1244,52,49-58,Female,37.6,5,148,7.0,21,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1245,61,59-68,Male,24.4,18,162,7.3,47,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1246,58,49-58,Male,25.3,7,129,6.9,9,Low,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_1247,57,49-58,Female,30.7,17,212,9.1,43,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1248,45,39-48,Male,20.5,4,111,5.2,0,High,Sedentary,Current,Controlled Glucose,Heart
+PID_1249,52,49-58,Female,26.6,25,168,7.7,56,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1250,27,18-28,Male,26.1,5,149,6.2,0,High,Sedentary,Current,Controlled Glucose,Kidney
+PID_1251,23,18-28,Female,37.1,30,204,9.1,62,Normal,High,Never,Chronic Hyperglycemia,Full Body
+PID_1252,41,39-48,Male,29.3,12,169,7.7,31,High,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_1253,49,49-58,Male,27.3,4,132,6.7,0,High,High,Former,Controlled Glucose,Full Body
+PID_1254,32,29-38,Female,25.7,24,187,7.7,59,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1255,25,18-28,Female,32.7,29,202,8.7,68,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1256,36,29-38,Male,26.3,9,165,6.3,0,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_1257,27,18-28,Male,28.4,4,136,6.2,0,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_1258,75,69+,Female,25.7,24,172,8.3,53,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_1259,70,69+,Female,21.6,14,131,5.2,0,High,Moderate,Former,Controlled Glucose,Full Body
+PID_1260,51,49-58,Female,24.0,5,119,5.2,0,Normal,Moderate,Current,Controlled Glucose,Retina
+PID_1261,77,69+,Female,26.3,18,169,7.2,42,High,High,Never,Chronic Hyperglycemia,Retina
+PID_1262,59,59-68,Male,27.4,19,179,7.2,52,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1263,72,69+,Male,27.6,12,125,5.2,0,Low,Sedentary,Never,Controlled Glucose,Full Body
+PID_1264,78,69+,Female,28.2,18,148,6.4,9,High,Moderate,Current,Controlled Glucose,Peripheral Nerves
+PID_1265,23,18-28,Male,26.4,17,151,6.5,9,High,Sedentary,Former,Controlled Glucose,Heart
+PID_1266,36,29-38,Male,34.8,30,193,9.4,63,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1267,32,29-38,Female,33.0,24,199,8.4,53,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1268,29,29-38,Female,28.0,11,158,6.4,9,High,Sedentary,Never,Controlled Glucose,Heart
+PID_1269,47,39-48,Female,29.8,35,232,10.2,76,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1270,72,69+,Female,26.9,23,177,8.6,43,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1271,66,59-68,Female,18.5,17,154,6.8,0,Low,Moderate,Never,Controlled Glucose,Full Body
+PID_1272,65,59-68,Male,28.7,1,150,5.9,0,High,Moderate,Former,Controlled Glucose,Full Body
+PID_1273,26,18-28,Male,30.0,15,151,6.9,0,High,Moderate,Current,Controlled Glucose,Retina
+PID_1274,27,18-28,Male,21.2,32,194,8.1,64,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1275,47,39-48,Male,30.9,9,134,5.8,0,Normal,Sedentary,Current,Controlled Glucose,Heart
+PID_1276,75,69+,Female,27.3,15,168,7.1,42,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1277,25,18-28,Male,30.2,28,205,9.4,59,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1278,40,39-48,Male,27.4,24,204,9.1,41,Low,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1279,41,39-48,Male,34.4,35,222,9.8,68,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1280,54,49-58,Male,29.6,22,180,8.5,52,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1281,41,39-48,Male,33.2,27,166,7.2,62,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1282,70,69+,Male,33.6,19,151,7.9,49,Normal,High,Current,Chronic Hyperglycemia,Kidney
+PID_1283,33,29-38,Male,23.5,12,138,6.3,0,High,Moderate,Former,Controlled Glucose,Full Body
+PID_1284,68,59-68,Male,25.2,20,198,8.6,47,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1285,22,18-28,Male,30.7,1,153,6.2,0,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_1286,47,39-48,Female,26.9,21,189,8.2,42,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1287,35,29-38,Male,27.5,1,124,6.0,0,Normal,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_1288,59,59-68,Male,34.5,10,176,7.3,20,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1289,58,49-58,Female,27.2,32,213,10.1,62,Normal,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1290,32,29-38,Male,24.1,22,148,6.2,9,High,Moderate,Current,Controlled Glucose,Kidney
+PID_1291,57,49-58,Female,24.8,18,158,7.5,41,Normal,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1292,34,29-38,Female,38.6,32,229,10.7,64,Normal,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_1293,64,59-68,Male,27.8,27,158,7.4,64,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1294,24,18-28,Female,22.3,28,198,8.8,54,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1295,54,49-58,Male,20.5,18,147,6.5,9,High,High,Former,Controlled Glucose,Heart
+PID_1296,27,18-28,Female,25.7,29,200,8.7,59,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1297,71,69+,Male,27.7,18,161,7.1,37,High,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1298,77,69+,Female,33.0,8,154,7.5,21,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1299,31,29-38,Male,32.5,31,208,9.2,52,Low,High,Former,Chronic Hyperglycemia,Retina
+PID_1300,26,18-28,Male,28.6,34,204,10.0,74,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1301,44,39-48,Female,26.5,7,142,6.6,9,Normal,Sedentary,Never,Controlled Glucose,Kidney
+PID_1302,31,29-38,Male,30.2,18,162,7.3,41,High,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_1303,65,59-68,Male,20.6,9,142,6.4,0,Normal,Moderate,Never,Controlled Glucose,Retina
+PID_1304,23,18-28,Female,37.7,9,143,7.0,26,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_1305,34,29-38,Female,31.6,8,169,6.8,0,Normal,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_1306,61,59-68,Male,32.6,35,232,9.7,76,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1307,23,18-28,Female,23.7,18,200,7.9,45,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1308,41,39-48,Female,34.5,5,173,7.1,10,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_1309,22,18-28,Female,26.5,14,155,7.0,30,Normal,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1310,58,49-58,Male,24.2,28,176,8.0,47,High,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1311,30,29-38,Female,28.4,30,177,8.1,72,High,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1312,38,29-38,Male,28.3,4,162,6.2,0,High,Sedentary,Never,Controlled Glucose,Retina
+PID_1313,30,29-38,Female,23.6,20,160,7.1,47,High,High,Former,Chronic Hyperglycemia,Heart
+PID_1314,32,29-38,Male,24.5,25,170,6.9,0,Normal,Moderate,Never,Controlled Glucose,Heart
+PID_1315,36,29-38,Male,24.1,28,181,7.5,66,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1316,45,39-48,Female,24.2,12,176,7.7,38,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_1317,59,59-68,Male,26.8,2,109,5.3,0,High,Moderate,Former,Controlled Glucose,Kidney
+PID_1318,76,69+,Female,22.2,14,166,7.4,46,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1319,56,49-58,Female,25.4,22,173,7.6,51,Normal,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1320,51,49-58,Female,33.4,31,241,10.3,56,Normal,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1321,52,49-58,Male,32.4,23,207,9.3,52,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1322,70,69+,Female,23.8,20,147,7.0,49,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1323,26,18-28,Male,33.0,4,131,5.2,0,Normal,High,Former,Controlled Glucose,Kidney
+PID_1324,81,69+,Male,19.6,15,123,5.4,0,Normal,Sedentary,Former,Controlled Glucose,Retina
+PID_1325,65,59-68,Female,39.8,24,169,8.7,63,Normal,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1326,71,69+,Male,34.6,25,227,10.1,47,Normal,High,Former,Chronic Hyperglycemia,Kidney
+PID_1327,35,29-38,Male,26.0,1,128,5.3,9,Normal,Moderate,Former,Controlled Glucose,Full Body
+PID_1328,74,69+,Female,30.4,7,144,6.7,0,High,Moderate,Never,Controlled Glucose,Kidney
+PID_1329,77,69+,Male,22.2,31,207,9.4,57,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1330,32,29-38,Male,28.9,12,168,7.1,31,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1331,30,29-38,Female,27.8,5,146,6.2,0,Normal,Sedentary,Former,Controlled Glucose,Retina
+PID_1332,55,49-58,Male,24.8,12,145,7.1,40,Low,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1333,33,29-38,Female,26.4,18,186,7.7,51,High,Moderate,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1334,56,49-58,Female,26.0,2,147,5.6,0,High,Sedentary,Former,Controlled Glucose,Heart
+PID_1335,56,49-58,Female,23.4,10,131,5.9,9,Normal,Moderate,Current,Controlled Glucose,Heart
+PID_1336,22,18-28,Female,24.7,15,142,7.1,46,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1337,61,59-68,Male,22.0,30,213,9.2,63,Low,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1338,43,39-48,Male,32.5,17,194,9.0,46,Normal,High,Former,Chronic Hyperglycemia,Heart
+PID_1339,81,69+,Female,24.3,4,143,6.0,0,Low,Sedentary,Former,Controlled Glucose,Kidney
+PID_1340,50,49-58,Female,23.0,7,171,6.5,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_1341,29,29-38,Female,32.5,31,198,9.6,64,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1342,32,29-38,Male,30.3,34,204,9.5,73,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1343,62,59-68,Male,32.3,6,157,7.0,12,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_1344,58,49-58,Male,32.8,34,245,10.5,68,High,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_1345,35,29-38,Female,37.5,15,205,7.5,30,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1346,81,69+,Male,27.9,14,145,6.2,9,Normal,Moderate,Current,Controlled Glucose,Kidney
+PID_1347,51,49-58,Female,21.9,6,111,5.5,0,High,Moderate,Former,Controlled Glucose,Kidney
+PID_1348,56,49-58,Female,29.8,32,206,9.4,68,Low,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1349,42,39-48,Male,25.5,3,137,6.3,0,High,Moderate,Current,Controlled Glucose,Peripheral Nerves
+PID_1350,58,49-58,Female,24.2,3,128,5.2,0,High,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_1351,26,18-28,Male,29.1,22,152,6.5,0,Normal,Moderate,Never,Controlled Glucose,Retina
+PID_1352,40,39-48,Female,32.6,22,172,8.1,45,High,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1353,80,69+,Female,24.8,10,138,6.4,0,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_1354,35,29-38,Female,34.5,3,128,5.7,0,Normal,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1355,47,39-48,Female,24.0,12,138,6.1,9,Low,High,Never,Controlled Glucose,Full Body
+PID_1356,25,18-28,Male,27.5,29,209,9.4,64,Low,Moderate,Former,Chronic Hyperglycemia,Kidney
+PID_1357,46,39-48,Male,30.4,17,176,7.8,38,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1358,66,59-68,Female,26.8,7,161,6.5,0,Normal,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1359,63,59-68,Male,20.4,13,138,6.2,9,High,High,Current,Controlled Glucose,Heart
+PID_1360,46,39-48,Male,32.9,2,128,5.8,0,High,Sedentary,Current,Controlled Glucose,Heart
+PID_1361,39,39-48,Male,25.7,4,118,5.7,0,High,Moderate,Current,Controlled Glucose,Full Body
+PID_1362,61,59-68,Female,32.0,10,165,7.4,25,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1363,29,29-38,Male,22.8,24,159,6.9,0,Low,Sedentary,Never,Controlled Glucose,Kidney
+PID_1364,60,59-68,Female,23.6,17,167,8.2,37,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1365,61,59-68,Female,32.6,6,156,7.0,10,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1366,35,29-38,Male,30.2,19,183,7.6,44,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1367,53,49-58,Male,26.6,5,157,6.6,9,Normal,High,Never,Controlled Glucose,Heart
+PID_1368,72,69+,Male,30.2,32,228,10.1,69,Low,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1369,59,59-68,Female,24.2,10,148,6.2,9,High,Sedentary,Never,Controlled Glucose,Kidney
+PID_1370,54,49-58,Male,29.1,9,145,6.6,0,Normal,High,Never,Controlled Glucose,Retina
+PID_1371,44,39-48,Male,29.2,27,209,9.7,69,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1372,36,29-38,Male,26.9,13,201,8.4,27,High,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1373,54,49-58,Female,24.8,19,178,7.5,41,Normal,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1374,46,39-48,Male,28.9,21,158,7.3,41,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1375,38,29-38,Female,28.3,24,161,8.0,65,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1376,54,49-58,Female,26.5,4,143,6.6,0,High,Moderate,Never,Controlled Glucose,Retina
+PID_1377,68,59-68,Male,23.8,24,171,7.3,44,High,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1378,76,69+,Female,28.7,35,203,9.4,67,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_1379,23,18-28,Male,26.5,3,141,6.0,0,Normal,Moderate,Never,Controlled Glucose,Full Body
+PID_1380,35,29-38,Female,23.8,4,135,5.2,0,Normal,Sedentary,Current,Controlled Glucose,Heart
+PID_1381,74,69+,Female,28.8,35,227,10.3,65,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_1382,61,59-68,Female,36.0,31,226,10.1,61,Low,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1383,61,59-68,Male,26.9,25,220,9.6,61,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1384,72,69+,Male,35.5,13,173,8.2,46,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1385,60,59-68,Male,38.3,4,137,6.3,0,Normal,Sedentary,Never,Controlled Glucose,Full Body
+PID_1386,72,69+,Male,24.2,14,170,7.2,30,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_1387,27,18-28,Male,28.6,13,176,7.8,35,Normal,Sedentary,Former,Chronic Hyperglycemia,Retina
+PID_1388,27,18-28,Male,38.3,27,225,10.1,48,Low,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1389,24,18-28,Male,28.0,6,134,5.8,0,Low,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_1390,28,18-28,Male,28.8,17,169,7.0,44,High,Moderate,Current,Chronic Hyperglycemia,Kidney
+PID_1391,72,69+,Female,20.9,35,189,8.2,76,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1392,29,29-38,Male,26.2,17,193,8.4,44,Low,High,Never,Chronic Hyperglycemia,Heart
+PID_1393,63,59-68,Male,31.2,2,161,6.5,0,High,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_1394,73,69+,Male,39.8,13,186,7.5,33,Low,High,Never,Chronic Hyperglycemia,Heart
+PID_1395,36,29-38,Male,27.7,2,158,5.9,0,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_1396,68,59-68,Female,21.0,28,176,8.1,62,High,High,Never,Chronic Hyperglycemia,Heart
+PID_1397,50,49-58,Male,22.1,26,192,7.4,66,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1398,54,49-58,Female,28.4,22,171,8.1,52,High,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1399,73,69+,Female,34.0,3,170,6.6,0,High,Sedentary,Former,Controlled Glucose,Full Body
+PID_1400,51,49-58,Female,31.5,35,237,11.0,77,Normal,Moderate,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1401,60,59-68,Female,30.7,12,152,6.7,9,Normal,Sedentary,Never,Controlled Glucose,Peripheral Nerves
+PID_1402,48,39-48,Female,34.6,24,174,7.7,54,Low,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1403,57,49-58,Female,25.3,5,115,5.3,0,Normal,Moderate,Current,Controlled Glucose,Peripheral Nerves
+PID_1404,50,49-58,Female,28.7,20,166,7.3,50,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1405,59,59-68,Female,26.2,13,142,6.6,0,Normal,High,Current,Controlled Glucose,Full Body
+PID_1406,78,69+,Female,27.4,12,130,6.2,0,Normal,Sedentary,Never,Controlled Glucose,Retina
+PID_1407,54,49-58,Female,24.0,13,165,7.3,31,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1408,58,49-58,Female,27.0,10,152,5.9,0,High,Moderate,Current,Controlled Glucose,Full Body
+PID_1409,48,39-48,Male,28.5,33,205,9.3,72,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1410,76,69+,Male,26.9,16,202,8.6,38,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1411,54,49-58,Male,27.9,35,209,9.8,68,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1412,25,18-28,Male,30.5,3,136,6.5,0,Normal,Moderate,Former,Controlled Glucose,Peripheral Nerves
+PID_1413,43,39-48,Male,34.3,5,182,7.9,20,High,High,Former,Chronic Hyperglycemia,Kidney
+PID_1414,23,18-28,Male,34.6,26,235,9.8,50,Low,Sedentary,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1415,31,29-38,Female,32.1,11,172,7.5,24,Low,Sedentary,Current,Chronic Hyperglycemia,Kidney
+PID_1416,26,18-28,Male,22.8,7,142,5.8,9,Low,Sedentary,Former,Controlled Glucose,Peripheral Nerves
+PID_1417,80,69+,Female,26.9,10,166,6.6,0,Low,Sedentary,Never,Controlled Glucose,Retina
+PID_1418,31,29-38,Male,27.3,34,207,9.3,67,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1419,54,49-58,Male,25.6,3,126,5.5,9,Normal,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_1420,75,69+,Female,30.2,8,160,6.8,0,High,Sedentary,Current,Controlled Glucose,Retina
+PID_1421,59,59-68,Female,21.3,31,201,8.7,71,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1422,34,29-38,Male,36.4,11,139,6.7,0,Low,Moderate,Former,Controlled Glucose,Retina
+PID_1423,52,49-58,Female,34.1,7,183,8.0,21,Low,High,Never,Chronic Hyperglycemia,Heart
+PID_1424,68,59-68,Female,30.8,2,146,6.4,9,High,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1425,57,49-58,Male,28.3,6,134,6.2,0,Normal,Sedentary,Former,Controlled Glucose,Full Body
+PID_1426,66,59-68,Male,34.3,32,217,9.8,53,High,Moderate,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1427,45,39-48,Female,31.8,20,183,8.7,58,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1428,73,69+,Female,33.7,34,184,8.9,73,Normal,Sedentary,Current,Chronic Hyperglycemia,Retina
+PID_1429,77,69+,Female,28.3,16,168,7.4,39,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1430,36,29-38,Female,36.8,25,195,8.3,52,Low,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1431,50,49-58,Male,34.0,12,202,9.2,22,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1432,29,29-38,Male,30.9,7,143,6.7,9,Low,Moderate,Former,Controlled Glucose,Kidney
+PID_1433,26,18-28,Male,34.4,17,157,7.3,34,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1434,50,49-58,Female,26.7,11,209,9.1,35,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1435,68,59-68,Female,23.2,6,146,5.6,9,Normal,High,Former,Controlled Glucose,Heart
+PID_1436,25,18-28,Female,30.1,23,192,8.2,51,Low,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1437,33,29-38,Male,28.3,27,204,8.5,50,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1438,66,59-68,Male,27.7,6,121,5.7,9,Low,Sedentary,Current,Controlled Glucose,Full Body
+PID_1439,23,18-28,Male,34.2,2,148,6.5,9,High,Sedentary,Current,Controlled Glucose,Kidney
+PID_1440,48,39-48,Female,29.4,22,163,6.7,0,High,Sedentary,Former,Controlled Glucose,Heart
+PID_1441,52,49-58,Female,29.8,20,181,8.7,46,High,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1442,72,69+,Male,27.1,25,165,7.6,56,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1443,72,69+,Female,32.7,15,177,7.4,26,Normal,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_1444,57,49-58,Male,31.8,29,216,9.6,67,Normal,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1445,57,49-58,Female,32.6,8,145,6.8,0,Normal,Sedentary,Current,Controlled Glucose,Peripheral Nerves
+PID_1446,47,39-48,Male,26.3,33,185,9.0,75,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1447,64,59-68,Female,34.6,22,191,7.9,37,Low,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1448,48,39-48,Male,37.1,5,166,8.3,24,High,Moderate,Former,Chronic Hyperglycemia,Retina
+PID_1449,26,18-28,Female,32.5,18,193,8.3,46,Low,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1450,41,39-48,Male,24.9,30,175,8.0,54,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1451,32,29-38,Male,24.9,31,209,8.9,61,Normal,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1452,31,29-38,Male,26.9,10,125,5.9,0,High,Sedentary,Current,Controlled Glucose,Heart
+PID_1453,61,59-68,Male,26.0,15,210,8.2,43,High,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1454,59,59-68,Male,28.3,18,180,7.8,44,High,High,Never,Chronic Hyperglycemia,Kidney
+PID_1455,27,18-28,Female,31.5,23,181,7.8,61,High,High,Never,Chronic Hyperglycemia,Retina
+PID_1456,29,29-38,Male,29.9,33,212,9.9,69,High,Moderate,Never,Chronic Hyperglycemia,Heart
+PID_1457,44,39-48,Female,29.5,16,164,7.3,44,High,High,Former,Chronic Hyperglycemia,Full Body
+PID_1458,68,59-68,Female,27.5,35,192,8.6,79,Normal,Moderate,Former,Chronic Hyperglycemia,Heart
+PID_1459,47,39-48,Female,28.3,34,234,9.7,73,Normal,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1460,67,59-68,Male,32.3,28,211,9.3,57,Normal,High,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1461,64,59-68,Male,19.3,2,141,5.9,0,Low,Sedentary,Never,Controlled Glucose,Kidney
+PID_1462,33,29-38,Female,28.5,30,206,9.0,63,Normal,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1463,47,39-48,Female,29.9,13,172,7.3,39,Normal,Sedentary,Never,Chronic Hyperglycemia,Full Body
+PID_1464,34,29-38,Male,32.2,16,162,7.8,35,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1465,61,59-68,Male,24.0,5,177,6.9,0,Normal,Moderate,Never,Controlled Glucose,Peripheral Nerves
+PID_1466,39,39-48,Male,23.7,28,175,8.2,62,Normal,Sedentary,Former,Chronic Hyperglycemia,Heart
+PID_1467,46,39-48,Female,31.3,20,188,8.4,38,High,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1468,54,49-58,Male,19.8,24,195,8.0,56,Low,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1469,68,59-68,Male,34.7,27,229,9.4,59,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1470,61,59-68,Female,29.6,30,205,8.8,60,High,High,Former,Chronic Hyperglycemia,Retina
+PID_1471,81,69+,Male,35.8,27,202,9.3,59,Normal,Moderate,Never,Chronic Hyperglycemia,Kidney
+PID_1472,64,59-68,Male,23.6,26,183,8.1,53,High,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1473,33,29-38,Female,26.6,7,173,7.6,25,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1474,65,59-68,Female,18.5,5,123,5.2,0,High,Moderate,Current,Controlled Glucose,Peripheral Nerves
+PID_1475,57,49-58,Male,24.9,23,153,7.3,42,Normal,Sedentary,Former,Chronic Hyperglycemia,Full Body
+PID_1476,69,69+,Male,27.8,28,207,8.7,59,Normal,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1477,25,18-28,Male,19.6,34,196,8.7,67,Normal,Sedentary,Current,Chronic Hyperglycemia,Heart
+PID_1478,26,18-28,Male,26.8,15,158,7.3,41,High,High,Current,Chronic Hyperglycemia,Peripheral Nerves
+PID_1479,77,69+,Female,19.5,32,179,8.2,72,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1480,58,49-58,Male,27.4,26,193,8.5,53,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1481,29,29-38,Male,33.9,31,200,9.6,60,High,Sedentary,Never,Chronic Hyperglycemia,Kidney
+PID_1482,63,59-68,Male,28.4,19,197,8.4,34,Normal,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1483,70,69+,Female,36.2,9,168,7.3,22,High,Moderate,Never,Chronic Hyperglycemia,Retina
+PID_1484,49,49-58,Female,32.2,29,221,9.2,59,High,Sedentary,Never,Chronic Hyperglycemia,Retina
+PID_1485,52,49-58,Female,34.8,4,160,7.0,11,Normal,Sedentary,Current,Chronic Hyperglycemia,Full Body
+PID_1486,79,69+,Male,25.1,3,133,6.3,0,Normal,Sedentary,Never,Controlled Glucose,Heart
+PID_1487,30,29-38,Female,25.0,29,168,8.0,63,High,Sedentary,Never,Chronic Hyperglycemia,Peripheral Nerves
+PID_1488,75,69+,Female,30.2,11,138,6.2,9,High,Moderate,Current,Controlled Glucose,Full Body
+PID_1489,72,69+,Male,21.3,33,215,9.8,68,High,High,Never,Chronic Hyperglycemia,Full Body
+PID_1490,50,49-58,Male,30.8,11,164,7.5,33,High,Sedentary,Never,Chronic Hyperglycemia,Heart
+PID_1491,35,29-38,Male,27.1,27,190,8.4,62,High,Sedentary,Former,Chronic Hyperglycemia,Kidney
+PID_1492,61,59-68,Male,34.7,33,212,9.8,73,High,Sedentary,Former,Chronic Hyperglycemia,Peripheral Nerves
+PID_1493,62,59-68,Male,31.7,21,183,8.0,46,Normal,Moderate,Current,Chronic Hyperglycemia,Full Body
+PID_1494,43,39-48,Male,33.6,31,208,9.6,64,High,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_1495,32,29-38,Male,25.1,2,128,5.2,0,Normal,Sedentary,Former,Controlled Glucose,Kidney
+PID_1496,44,39-48,Female,33.4,27,210,9.6,57,Normal,Moderate,Former,Chronic Hyperglycemia,Full Body
+PID_1497,22,18-28,Male,35.2,11,182,7.5,36,High,Moderate,Never,Chronic Hyperglycemia,Full Body
+PID_1498,67,59-68,Female,28.4,18,182,7.8,50,High,High,Former,Chronic Hyperglycemia,Full Body
+PID_1499,58,49-58,Female,25.2,1,123,5.2,0,Low,Sedentary,Current,Controlled Glucose,Full Body
+PID_1500,42,39-48,Female,25.3,35,212,9.6,66,High,Sedentary,Never,Chronic Hyperglycemia,Full Body
